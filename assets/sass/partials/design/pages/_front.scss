@@ -1,0 +1,640 @@
+.front {
+    .find-your-genius {
+        background-color: #fff;
+        text-align: center;
+        position: relative;
+        animation-name: fadeIn;
+        opacity: 0;
+        animation-duration: 1s;
+        background-position: top right;
+        background-repeat: no-repeat;
+        animation-fill-mode: forwards;
+        overflow: hidden;
+        width: 100%;
+        .find-your-genius-wrapper {
+            background: #b9d531 url('/assets/images/front/find-your-genius_bg.png');
+            background-position: top center;
+            height: 620px;
+        }
+        .title {
+            position: absolute;
+            top: -95px;
+            left: -108px;
+            animation-name: slideDownfromLeft;
+            animation-duration: 1s;
+            animation-timing-function: ease;
+            animation-delay: .2s;
+            opacity: 0;
+            animation-fill-mode: forwards;
+            background: url('/assets/images/front/find-your-genius_title_md.png') no-repeat top left;
+            width: 568px;
+            height: 401px;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                top: -190px;
+                left: -217px;
+                background: url('/assets/images/front/find-your-genius_title.png') no-repeat top left;
+                width: 908px;
+                height: 642px;
+            }
+        }
+        .independent-learner {
+            position: absolute;
+            top: 12px;
+            right: 238px;
+            animation-name: slideDown;
+            animation-duration: 1s;
+            animation-timing-function: ease;
+            animation-delay: .4s;
+            opacity: 0;
+            animation-fill-mode: forwards;
+            background: url('/assets/images/front/independent-learner_button_md.png') no-repeat top left;
+            width: 179px;
+            height: 175px;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                top: -56px;
+                right: 364px;
+                background: url('/assets/images/front/independent-learner_button.png') no-repeat top left;
+                width: 357px;
+                height: 350px;
+            }
+        }
+        .future-designer {
+            position: absolute;
+            bottom: 10px;
+            right: 170px;
+            animation-name: slideUp;
+            animation-duration: 1s;
+            animation-timing-function: ease;
+            animation-delay: .6s;
+            opacity: 0;
+            animation-fill-mode: forwards;
+            background: url('/assets/images/front/future-designer_button_md.png') no-repeat top left;
+            width: 179px;
+            height: 175px;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                bottom: 10px;
+                right: 170px;
+                background: url('/assets/images/front/future-designer_button.png') no-repeat top left;
+                width: 357px;
+                height: 350px;
+            }
+        }
+        .creative-inventor {
+            position: absolute;
+            top: -45px;
+            right: -55px;
+            animation-name: slideRight;
+            animation-duration: 1s;
+            animation-timing-function: ease;
+            animation-delay: .8s;
+            opacity: 0;
+            animation-fill-mode: forwards;
+            background: url('/assets/images/front/creative-inventor_button_md.png') no-repeat top left;
+            width: 179px;
+            height: 175px;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                top: -45px;
+                right: -55px;
+                background: url('/assets/images/front/creative-inventor_button.png') no-repeat top left;
+                width: 357px;
+                height: 350px;
+            }
+        }
+        .call-to-action {
+            position: absolute;
+            bottom: 50px;
+            z-index: 2;
+            left: 50%;
+            transform: translateX(-50%);
+            animation-name: SlipIn;
+            animation-duration: .4s;
+            animation-timing-function: ease;
+            animation-delay: 1.8s;
+            opacity: 0;
+            animation-fill-mode: forwards;
+            &:hover {
+                bottom: 51px;
+                top: auto;
+                transform: scale(1.075) translateX(-50%);
+            }
+        }
+        .subtitle {
+            color: $color-three;
+            font-family: $font-family;
+            position: absolute;
+            bottom: 80px;
+            left: 150px;
+            animation-name: slideIn;
+            animation-duration: .6s;
+            animation-timing-function: ease;
+            animation-delay: 1.3s;
+            opacity: 0;
+            animation-fill-mode: forwards;
+            font-size: 1.8rem;
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                font-size: 2rem;
+            }
+        }
+    }
+    .secondary {
+        background-color: #fff;
+        padding: 0 1rem;
+        h2 {
+            font-family: $heading-font-family;
+            color: $color-one;
+            font-weight: 400;
+            font-size: 3rem;
+            margin: 0;
+            padding: 0;
+            line-height: 1;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                font-size: 4rem;
+            }
+        }
+        h3 {
+            font-family: $heading-font-family;
+            color: $color-two;
+            font-weight: 600;
+            font-size: 3rem;
+            margin: 0;
+            line-height: 1;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                font-size: 4rem;
+            }
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 1rem 0;
+        }
+        h4 {
+            color: $color-one;
+            display: inline;
+            font-size: 2rem;
+            margin: 0 1rem 0 0;
+            font-family: $font-family;
+            font-weight: 900;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                font-size: 2.5rem;
+            }
+        }
+        h5 {
+            font-family: $font-family;
+            font-weight: 700;
+            color: $color-two;
+            font-size: 1.6rem;
+            display: inline-block;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                font-size: 2rem;
+            }
+        }
+        a.call-to-action {
+            vertical-align: text-bottom;
+            margin: 1rem 0 0 1rem;
+        }
+    }
+    .curious {
+        padding: 2.5rem 0;
+        background-color: $color-eight; // Summer sky
+        background: url('/assets/images/patterns/blue-halftone-dot-pattern.png');
+        text-align: center;
+        h2 {
+            color: #fff;
+            display: inline;
+            font-size: 3rem;
+            margin: 0 1rem 0 0;
+            font-family: $font-family;
+            font-weight: 900;
+        }
+        a.call-to-action {
+            vertical-align: text-bottom;
+        }
+    }
+    .ventue-project {
+        background-color: #dddfe1;
+        background: url('/assets/images/patterns/compass-nuts-and-bolts-pattern.png');
+        @include clearfix;
+        .left {
+            float: none;
+            width: 100%;
+            @include breakpoint($bp-small,
+            $no-query: ".no-mq") {
+                float: left;
+                width: 163px;
+                margin: 0 1rem 0 0;
+            }
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                @include grid-span(4,
+                2,
+                $gutter: 1);
+            }
+        }
+        .right {
+            h2 {
+                color: $color-one;
+                display: inline;
+                font-size: 2rem;
+                margin: 0 1rem 0 0;
+                font-family: $font-family;
+                font-weight: 500;
+                @include breakpoint($bp-small,
+                $no-query: ".no-mq") {
+                    font-size: 2.5rem;
+                }
+            }
+            h3 {
+                color: $color-one;
+                font-size: 2rem;
+                font-family: $font-family;
+                display: inline;
+                font-weight: 900;
+                margin: 0 0 1rem 0;
+                @include breakpoint($bp-small,
+                $no-query: ".no-mq") {
+                    font-size: 2.5rem;
+                }
+            }
+            p a {
+                font-weight: 700;
+                text-decoration: none;
+            }
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                @include grid-span(6,
+                6,
+                $gutter: 0);
+            }
+            .call-to-action {
+                text-align: center;
+                @include breakpoint($bp-medium,
+                $no-query: ".no-mq") {
+                    text-align: right;
+                }
+            }
+        }
+    }
+    .that-one-teacher {
+        background-color: #ebebeb;
+        background: url('/assets/images/patterns/compass-geometrics-pattern.png');
+        .left {
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                @include grid-span(6, 2, $gutter: 1);
+            }
+            h2 {
+                color: $color-one;
+                display: inline;
+                font-size: 1.8rem;
+                margin: 0 1rem 0 0;
+                font-family: $font-family;
+                font-weight: 900;
+                @include breakpoint($bp-medium,
+                $no-query: ".no-mq") {
+                    font-size: 2.5rem;
+                }
+            }
+            h3 {
+                color: $color-five;
+                font-family: $font-family;
+                font-weight: 700;
+                font-size: 1.2em;
+                @include breakpoint($bp-medium,
+                $no-query: ".no-mq") {
+                    font-size: 1.4em;
+                }
+            }
+            p a {
+                font-weight: 700;
+                text-decoration: none;
+            }
+        }
+        .right {
+            position: relative;
+            @include breakpoint($bp-medium,
+            $no-query: ".no-mq") {
+                @include grid-span(4, 8, $gutter: 1);
+            }
+            img {
+                width: 100%;
+            }
+            .play-button {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                transform-origin: 20% 40%;
+                &:hover {
+                    transform: scale(1.075) translate(-50%, -50%);
+                    box-shadow: 5px 20px 30px 0 rgba(0, 0, 0, 0.1);
+                }
+            }
+        }
+    }
+    .join-the-compass-community {
+        background-color: $color-two; // Deep sky blue
+        p {
+            color: #fff;
+        }
+        h2 {
+            color: #fff;
+            display: inline;
+            font-size: 2.5rem;
+            margin: 0;
+            font-family: $font-family;
+            font-weight: 900;
+        }
+        .logos {
+            display: flex;
+            flex-wrap: wrap;
+            .partner-logo {
+                flex: 1 1 40%;
+                margin: 0 1rem 1rem 0;
+                @include breakpoint($bp-small,
+                $no-query: ".no-mq") {
+                    margin: 0 2rem;
+                    flex: 1;
+                }
+            }
+        }
+    }
+    .news-and-updates {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        .news-and-update {
+            background-color: $color-one; // Citrus
+            margin: .5rem;
+            padding: .4rem .8rem;
+            width: 100%;
+            position: relative;
+            text-decoration: none;
+            transition: all 0.2s ease;
+            @include breakpoint($bp-small,
+            $no-query: ".no-mq") {
+                width: 45%;
+            }
+            @include breakpoint(1300px,
+            $no-query: ".no-mq") {
+                width: 22%;
+                margin: 0 1rem;
+            }
+            &:hover {
+                transform: scale(1.05);
+                box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
+            }
+            a {
+                color: #fff;
+                text-decoration: none;
+                display: block;
+            }
+            h3 {
+                color: #fff;
+                font-family: $font-family;
+                font-weight: 900;
+                font-size: 1.2rem;
+                margin: 0 0 .5rem 0;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                overflow: hidden;
+            }
+            h4 {
+                color: $color-three;
+                margin: 0;
+                font-size: 1.2rem;
+            }
+            img {
+                width: 100%;
+            }
+            p {
+                color: #fff;
+                font-size: .9rem;
+            }
+        }
+    }
+    .connect-with-compass {
+        background-color: $color-three; // Deep pink
+        background: url('/assets/images/patterns/compass-pencils-pattern.png');
+        margin: 0 0 2rem 0;
+        padding: 1rem 0 2rem 0;
+        h2 {
+            color: #fff;
+            font-size: 2.5rem;
+            margin: 0;
+            font-family: $font-family;
+            font-weight: 900;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .social-posts {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            /* horizontal */
+            .social-post {
+                background: #fff;
+                position: relative;
+                margin: 1rem;
+                transition: all 0.2s ease;
+                text-decoration: none;
+                width: 100%;
+                @include breakpoint($bp-small,
+                $no-query: ".no-mq") {
+                    flex: 1 1 32%;
+                }
+                @include breakpoint($bp-medium,
+                $no-query: ".no-mq") {
+                    flex: initial;
+                    margin: 1rem .5rem;
+                    width: 30%;
+                }
+                &:hover {
+                    transform: scale(1.05);
+                    box-shadow: 5px 10px 20px 0 rgba(0, 0, 0, 0.3);
+                }
+                .social-tag {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    height: 50px;
+                    width: 50px;
+                    z-index: 1;
+                    background-color: #b9d531; // Fuego
+                    background-repeat: no-repeat;
+                    background-position: center center;
+                    background-size: 50%;
+                    padding: .5rem;
+                    &.facebook {
+                        background-image: url('/assets/images/icons/facebook2.svg');
+                        background-size: 40%;
+                    }
+                    &.instagram {
+                        background-image: url('/assets/images/icons/instagram2.svg');
+                    }
+                    &.twitter {
+                        background-image: url('/assets/images/icons/twitter2.svg');
+                    }
+                }
+                img {
+                    min-width: 100%;
+                    display: block;
+                    @include breakpoint(1300px,
+                    $no-query: ".no-mq") {
+                        //max-width: 366px;
+                    }
+                }
+                .social-text {
+                    font-size: .7rem;
+                    color: #333333;
+                    margin: 1rem;
+                    p {
+                        color: #333;
+                        margin-bottom: .5rem;
+                        &.date {
+                            color: $color-eight;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .bottom {
+        margin: 0 0 2rem 0;
+    }
+    .top-bottom {
+        margin: 2rem 0;
+    }
+}
+
+.center-container {
+    margin: 0 auto;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.max-width-medium {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container-padding-small {
+    padding: 1rem 0;
+}
+
+.container-padding-medium {
+    padding: 2rem;
+    @include breakpoint($bp-large,
+    $no-query: '.no-mq') {
+        padding: 2rem 0;
+    }
+}
+
+.container-padding-large {
+    padding: 4rem 0;
+}
+
+.container-margin-small {
+    margin: 1rem 0;
+}
+
+.container-margin-medium {
+    margin: 2rem 0;
+}
+
+.container-margin-large {
+    margin: 4rem 0;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes slideDownfromLeft {
+    0% {
+        transform: translateY(-100%) translateX(-100%) scale(.8);
+        opacity: 1;
+    }
+    40% {
+        transform: translateY(5%) translateX(5%) scale(1);
+    }
+    100% {
+        transform: translateY(0%) translateX(0%) scale(1);
+        opacity: 1;
+    }
+}
+
+@keyframes slideDown {
+    0% {
+        transform: translateY(-100%) translateX(-100%) rotate(0deg);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(0%) translateX(0%) rotate(360deg);
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    0% {
+        //transform: translateY(100%) translateX(-100%) rotate(-360deg) scale(0);
+        transform: rotate(-180deg) scale(1.4);
+        opacity: 1;
+    }
+    100% {
+        //transform: translateY(0%) translateX(0%) rotate(0deg) scale(1);
+        transform: rotate(0deg) scale(1);
+        opacity: 1;
+    }
+}
+
+@keyframes slideRight {
+    0% {
+        transform: translateY(-100%) translateX(200%) rotate(-360deg);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0%) translateX(0%) rotate(0deg);
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0%);
+        opacity: 1;
+    }
+}
+
+@keyframes SlipIn {
+    0% {
+        transform: translateY(-100%) scale(1.2);
+        opacity: 0;
+    }
+    80% {
+        transform: translateY(10%) scale(.9);
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(0%) scale(1);
+        opacity: 1;
+    }
+}

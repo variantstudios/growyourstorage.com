@@ -1,0 +1,31 @@
+- text: Community-Engaged Learning
+  url: /community-engaged-learning/
+  subitems:
+    - text: A Day in the Life
+      url: /a-day-in-the-life/
+    - text: Students
+      url: /students/    
+    - text: Campus
+      url: /campus/
+    - text: Venture Projects
+      url: /venture-projects/
+- text: Parents
+  url: /parents/
+  subitems:
+    - text: Academics
+      url: /academics/
+    - text: Levels of Autonomy
+      url: /levels-of-autonomy/
+    - text: Parent Resources
+      url: /parent-resources/
+- text: Admissions
+  url: /admissions/
+- text: Our Team
+  url: /our-team/
+  subitems:
+    - text: Careers
+      url: /careers/
+- text: Contact
+  url: /contact-us/
+- text: Search
+  url: /search/

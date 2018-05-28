@@ -1,0 +1,30 @@
+--- 
+layout: default 
+---
+<div class="background" style="background-image: url({% if page.header_image %}{{page.header_image}}{% else %}/assets/images/backgrounds/note-cards-on-the-board.jpg{% endif %});" >
+    {% comment %}<img src="" alt="Compass background" class="bg"> {% endcomment %}
+    <section class="subpage wrap">
+        <div>{{ content }}</div>
+
+        {% if page.permalink == "/contribute/" %} 
+        {% include contribute.html %} 
+        {% elsif page.permalink == "/faqs/" %} 
+        {% include faqs.html %} 
+        {% elsif page.permalink == "/contact-us/" %} 
+        {% include contact-form.html %} 
+        {% elsif page.permalink == "/search/" %}
+        {% include google-search.html %} 
+        {% endif %} 
+        {% if page.stripe.show == true %} 
+        {% include stripe.html %} 
+        {% endif %} 
+        
+        {% if page.iframe.url %}
+        <div id="iframe">
+            <h3>{{page.iframe.title}}</h3>
+            <iframe src="{{page.iframe.url}}" width="{{page.iframe.width}}" height="{{page.iframe.height}}" frameborder="0">Loading...</iframe>
+        </div>
+        {% endif %}
+
+    </section>
+</div>
