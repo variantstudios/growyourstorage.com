@@ -1,31 +1,29 @@
-- text: Community-Engaged Learning
-  url: /community-engaged-learning/
+- text: Development
+  url: /development/overview/
   subitems:
-    - text: A Day in the Life
-      url: /a-day-in-the-life/
-    - text: Students
-      url: /students/    
-    - text: Campus
-      url: /campus/
-    - text: Venture Projects
-      url: /venture-projects/
-- text: Parents
-  url: /parents/
+    - text: Overview
+      url: /development/overview/
+    - text: Assets
+      url: /development/assets/
+    - text: Contact
+      url: /development/contact/
+- text: Property Management
+  url: /property-management/overview/
   subitems:
-    - text: Academics
-      url: /academics/
-    - text: Levels of Autonomy
-      url: /levels-of-autonomy/
-    - text: Parent Resources
-      url: /parent-resources/
-- text: Admissions
-  url: /admissions/
-- text: Our Team
-  url: /our-team/
+    - text: Overview
+      url: /property-management/overview/
+    - text: Assets
+      url: /property-management/assets/
+    - text: Contact
+      url: /property-management/contact/
+- text: General Contracting
+  url: /general-contracting/overview/
   subitems:
-    - text: Careers
-      url: /careers/
-- text: Contact
-  url: /contact-us/
-- text: Search
-  url: /search/
+    - text: Overview
+      url: /general-contracting/overview/
+    - text: Assets
+      url: /general-contracting/assets/
+    - text: Contact
+      url: /general-contracting/contact/
+- text: Industry Updates
+  url: /blog/
