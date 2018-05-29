@@ -1,5 +1,5 @@
 .main-nav {
-    margin: 1.5rem 0 0 0;
+    margin: .7rem 0 0 0;
     #menu-btn,
     .navicon {
         display: none;
@@ -70,14 +70,14 @@
     &>ul.menu>li {
         padding-bottom: 0;
         margin-bottom: 0;
-    }
-    &>ul.menu>li {
         padding-top: 0;
         margin-bottom: 0;
-        margin-top: 3px;
-        &:last-child {
-            margin-right: 0;
-            padding-right: 0;
+        margin-top: 5px;
+        @include breakpoint($bp-medium, $no-query: '.no-mq') {
+            &:last-child {
+                margin-right: 0;
+                padding-right: 0;
+            }
         }
     }
     &>.menu {
@@ -90,12 +90,14 @@
         visibility: hidden;
         transition: all 225ms cubic-bezier(0.47, 0.39, 0.25, 1.35);
         text-align: left;
-        margin: 0 0 0 0;
+        margin: 0 0 1rem 1rem;
         @include breakpoint($bp-medium, $no-query: '.no-mq') {
-            background: none;
+            margin: 0;
+            text-align: right;
             opacity: 1;
             visibility: visible;
             display: block;
+            background: none;
         }
         @include breakpoint($bp-large, $no-query: '.no-mq') {
             text-align: right;
@@ -110,24 +112,34 @@
             position: relative;
             @include breakpoint($bp-medium, $no-query: '.no-mq') {
                 display: inline-block;
+                padding: .55em .5em;
+            }
+            @include breakpoint($bp-large, $no-query: '.no-mq') {
+                display: inline-block;
                 padding: .75em .6em;
             }
-            @include breakpoint(1200px, $no-query: '.no-mq') {
-                padding: .75em 1em;
-            }
+            // @include breakpoint(1200px, $no-query: '.no-mq') {
+            //     padding: .75em 1em;
+            // }
             a {
                 font-size: .9rem;
                 transition: color .5s ease;
                 padding: 0;
                 display: block;
-                color: $color-four;
+                color: #000;
                 text-transform: uppercase;
                 font-weight: 700;
                 &:hover {
-                    color: $color-one;
+                    color: #373737;
                 }
                 &:active {
                     position: relative;
+                }
+                @include breakpoint($bp-medium, $no-query: '.no-mq') {
+                    font-size: .7rem;
+                }
+                @include breakpoint($bp-large, $no-query: '.no-mq') {
+                    font-size: .9rem;
                 }
             }
             // Show DropDown Menu
@@ -144,18 +156,17 @@
                 opacity: 1;
                 visibility: visible;
                 @include breakpoint($bp-medium, $no-query: '.no-mq') {
-                    padding: .4em 1em 0;
+                    padding: .4rem 0;
                     text-align: right;
                     right: 16px;
                     position: absolute;
                     visibility: hidden;
                     opacity: 0;
-                    width: 200px;
+                    width: 150px;
                     text-align: right;
                     background: $color-one;
                     margin-top: 1px;
                     transition: all .1s ease-in;
-                    padding: 0 0;
                     box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.3);
                     border-radius: 0 0 3px 3px;
                     li {
@@ -165,7 +176,7 @@
                         a {
                             color: #fff;
                             &:hover {
-                                color: $color-three;
+                                color: #373737;
                             }
                         }
                     }

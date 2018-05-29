@@ -1,11 +1,13 @@
 # Site settings
-title: "GYS - Grow Your Own Storage"
+title: "Grow Your Storage"
 email: "team@variantstudios.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/ - keep empty!
-url: "https://near-shirt.cloudvent.net" # the base hostname & protocol for your site - don't include the forward slash
+url: "https://maroon-flag.cloudvent.net" # the base hostname & protocol for your site - don't include the forward slash
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
 version: "3.8.2" # the version of jekyll
+
+collections_dir: "_collections"
 
 #CloudCannon defaults
 uploads_dir: "assets/images"
@@ -118,13 +120,15 @@ _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
 
 # Cloudinary
-# cloudinaryurl: 'https://res.cloudinary.com/compass-high-school/'
+cloudinaryurl: 'https://res.cloudinary.com/grow-your-storage/'
 
 # Typekit
 typekit: "dan8xfd"
 
 # Google Analytics 
 google_analytics_tracking_id:
+
+include: ["_pages", "_collections"]
 
 exclude: [
   "collections",

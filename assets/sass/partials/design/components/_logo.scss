@@ -8,6 +8,9 @@
         display: block;
         margin: 0 auto 0 auto;
         @include breakpoint($bp-medium, $no-query: '.no-mq') {
+            margin: 0 0 0 10px;
+        }
+        @include breakpoint($bp-large, $no-query: '.no-mq') {
             margin: 0;
         }
     }
