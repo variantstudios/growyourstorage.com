@@ -1606,6 +1606,21 @@ body.front #site-header {
 .no-mq body.front #site-header {
   min-height: 660px;
 }
+body.front .logos {
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+body.front .logos .gys-logo {
+  margin: auto;
+}
 
 .center-container {
   margin: 0 auto;
