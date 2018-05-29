@@ -3,7 +3,23 @@ body.front #site-header {
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
-    min-height: 660px;
+    min-height: 220px;
+    @include breakpoint($bp-small,
+    $no-query: '.no-mq') {
+        min-height: 280px;
+    }
+    @include breakpoint($bp-xsmall,
+    $no-query: '.no-mq') {
+        min-height: 340px;
+    }
+    @include breakpoint($bp-medium,
+    $no-query: '.no-mq') {
+        min-height: 490px;
+    }
+    @include breakpoint('1200px',
+    $no-query: '.no-mq') {
+        min-height: 660px;
+    }
 }
 
 .center-container {

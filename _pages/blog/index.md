@@ -10,4 +10,4 @@ permalink: /blog/
 layout: blog
 class: blog
 ---
-<h1>Compass Blog</h1>
+<h1>Blog</h1>
