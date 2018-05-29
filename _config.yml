@@ -120,6 +120,9 @@ _comments:
 # Cloudinary
 # cloudinaryurl: 'https://res.cloudinary.com/compass-high-school/'
 
+# Typekit
+typekit: "dan8xfd"
+
 # Google Analytics 
 google_analytics_tracking_id:
 

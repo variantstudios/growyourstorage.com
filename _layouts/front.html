@@ -2,124 +2,17 @@
 layout: default 
 ---
 
-<div class="mainfront-wrapper clearfix">
+<div class="subpage wrap clearfix">
     {% comment %} {{content}} {% endcomment %}
-    <div class="find-your-genius">
-        <div class="find-your-genius-wrapper">
-            <h2 class="subtitle">{{page.find_your_genius.sub_title}}</h2>
-            <a href="{{page.find_your_genius.call_to_action_url}}" class="call-to-action editable">{{page.find_your_genius.call_to_action_title}}</a>
-
-            <span class="title"></span>
-            <span class="independent-learner"></span>
-            <span class="future-designer"></span>
-            <span class="creative-inventor"></span>
-
-
-        </div>
+    <div class="logos">
+        <h3>logos</h3>
     </div>
-
-    <section class="secondary">
-        <div class="max-width-medium editable">
-            <h2>Love school.</h2>
-            <h2>Learn actively.</h2>
-            <h3>Change the world.</h3>
-            <p>Compass is Fort Collins' new <strong>tuition-free</strong> charter school. Students learn through active and engaging real-world projects &mdash; and graduate with a <strong>plan,</strong> a <strong>portfolio,</strong> and the tools to make
-                a <strong>positive impact.</strong></p>
-            <h4>Now enrolling grades 6 &ndash; 10.</h4>
-            <h5>Space is limited.</h5>
-            <p><a class="call-to-action" href="#">Explore Compass</a></p>
-        </div>
-    </section>
-
-    <section class="curious container-margin-medium editable">
-        <h2>Curious?</h2>
-        <a href="#" class="call-to-action">Let's Connect</a>
-    </section>
-
-    <section class="ventue-project container-padding-medium">
-        <div class="left">
-            <img src="{{site.cloudinaryurl}}image/fetch/w_416,h_416,c_fill,c_fill,q_65/{{site.url}}{{page.venture_project.image_path}}" alt="{{page.venture_project.title}}" data-img="{{site.url}}{{page.venture_project.image_path}}" data-width="416px" data-height="416px"
-            />
-        </div>
-        <div class="right editable">
-            <h2>Venture Project:</h2>
-            <h3>Deep-Field Ecology</h3>
-            <p><a href="#">Purpose:</a> Rarely are youth given the opportunity to be truly exposed to the environment around them. Most of our lives we are insulated from the environment which we rely on to stay alive. As we continue to create technological
-                advances in our society we continue to push ourselves out of nature in a way that prevents us from making deep connections with the earth and with ourselves. <a href="#">More</a></p>
-            <p><a href="#">Community Partners:</a> No Barriers, Colorado Mountain School, CSU Mountain Campus</p>
-            <p><a class="call-to-action" href="#">Venture Forth</a></p>
-        </div>
-    </section>
-
-    <section class="that-one-teacher container-padding-medium container-margin-medium clearfix">
-        <div class="left editable">
-            <h2>#ThatOneTeacher</h2>
-            <h3>Remember that one teacher? They made learning fun. They helped you discover who you really are. They made you feel smart — helped you realize you are smart.</h3>
-
-            <p>They didn’t quite fit into the institutional box, and more importantly, they didn’t try to fit you into any box. Compass is a school designed by those teachers. Compass is a school full of those teachers, surrounded and supported by a community
-                of mentors from business, nonprofit and higher education organizations. That exceptional, life-changing learning experience you had isn’t the exception at Compass; it’s the rule.</p>
-            <p><a href="https://twitter.com/intent/tweet?text=Put%20your%20message%20here.&hashtags=ThatOneTeacher%2C%20CompassFortCollins" target="_blank" rel="noopener noreferrer">Share your story:</a> <strong>#ThatOneTeacher, #CompassFortCollins</strong></p>
-        </div>
-        <div class="right">
-            <a onclick="revealVideo('video','youtube')" class="play-button"><span class="arrow">play</span></a>
-            <img src="{{site.cloudinaryurl}}image/fetch/q_jpegmini/{{site.url}}{{page.that_one_teacher.video_thumbnail_path}}" alt="{{page.that_one_teacher.video_title}}" data-img="{{page.that_one_teacher.video_thumbnail_path}}" />
-        </div>
-    </section>
-
-    <section class="join-the-compass-community container-padding-medium">
-        <div class="max-width-medium center-container">
-            <div class="editable">
-                <h2>Join the Compass Community</h2>
-                <p>Join our growing list of community partners and start seeing the benefit of working with our students. Your organization — business, nonprofit, artistic, college, university, and government entities — can partner with our students to engage
-                    in hands-on career exploration. Contact us for information on community engagement opportunities.</p>
-            </div>
-            <p class="text-align-center"><a href="#" class="call-to-action">Become A Partner</a></p>
-            <div class="logos">
-                {% for partnes in page.join_the_compass_community_partners %}
-                <span class="partner-logo"><a href="{{partnes.site_url}}" target="_blank" title="{{partnes.title}}" rel="noopener noreferrer">
-                    <img src="{{site.cloudinaryurl}}image/fetch/{{site.url}}{{partnes.logo_path}}" alt="{{partnes.title}}" data-img="{{partnes.logo_path}}" />
-                </a></span>
-                {% endfor %}
-            </div>
-        </div>
-    </section>
-
-    <div class="news-and-updates container-padding-medium">
-        {% for post in site.posts limit:4 %}
-        <article class="news-and-update">
-            <a href="{{post.url}}">
-                <h3>{{post.title}}</h3>
-                {% if post.image_path %}
-                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}{{post.image_path}}" alt="{{post.title}}" data-img="{{site.url}}{{post.image_path}}" data-width="300px" data-height="200px" />
-                {% else %}
-                <img src="{{site.cloudinaryurl}}image/fetch/w_299,h_199,c_fill,c_fill,q_65/{{site.url}}/assets/images/blog-placeholder.png" alt="{{post.title}}" data-img="{{site.url}}/assets/images/blog-placeholder.png" data-width="300px" data-height="200px" />
-                {% endif %}
-                <h4 class="date">{{post.date | date: "%A, %b %d %Y | %I %P" }}</h4>
-                <p>{{ post.content | strip_html | truncatewords: 10 }}</p>
-            </a>
-        </article>
-        {% endfor %}
+    <div class="figures">
+        <h3>figures</h3>
     </div>
-
-    <section class="connect-with-compass container-padding-small">
-        <h2 class="editable">Connect with Compass</h2>
-        <div class="social-posts inner-wrap" id="instafeed">
-        </div>
-    </section>
-
-</div>
-
-{% if page.that_one_teacher.youtube_video_id %}
-<div id="video" class="lightbox">
-    <div class="lightbox-container">
-        <div class="lightbox-content">
-
-            <button onclick="hideVideo('video','youtube')" class="lightbox-close">Close | ✕</button>
-            <div class="video-container">
-                <iframe id="youtube" width="960" height="540" src="https://www.youtube-nocookie.com/embed/{{page.that_one_teacher.youtube_video_id}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-            </div>
-
-        </div>
+    <div class="content">
+        <h3>Independent Self-Storage Entrepreneurs</h3>
+        <p>GYS companies are setup as fully integrated self-storage specialist firms. The comprehensive, vertical integration of GYS companies comprises development and entitlement services, construction design and management, and comprehensive property management. In addition, the principles of the company are also investors in these self-storage projects. We handle all components at all stages of the project.</p>
+        <p>After two plus decades of continual innovation in the development and management business, we have cultivated and formalized a series of methods for developing, building, operating, and owning self-storage properties. Our system yields consistently strong results across a broad range of facility sizes, classes, and geographies.</p>
     </div>
 </div>
-{% endif %}
