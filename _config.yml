@@ -57,6 +57,8 @@ collections:
     permalink: '/blog/tag/:title/'
   sg:
     output: false
+  assets:
+    output: false
 
 defaults:
   -
@@ -81,7 +83,18 @@ defaults:
       class: blog
       pagination: 
         enabled: true
+  -
+    scope:
+      type: assets
+    values:
+      layout: page
 
+# Hard-Coded Values
+gys_companies:
+  - 'development'
+  - 'property-management'
+  - 'general-contracting'
+  
 # Cloudcannon Options
 _options:
   some_markdown:
@@ -118,6 +131,7 @@ _options:
     
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
+  gys_companies: "Select the one or multiple GYS company where this asset should be listed under."
 
 # Cloudinary
 cloudinaryurl: 'https://res.cloudinary.com/grow-your-storage/'

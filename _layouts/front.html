@@ -4,7 +4,7 @@ layout: default
 <div class="subpage wrap clearfix">
     <div class="logos">
         {% for company in page.companies %}
-        <a href="{{company.link_path}}" class="gys-logo"><img src="{{company.logo_image}}" alt="{{company.title}}"></a>
+        <a href="{{company.link}}" class="gys-logo"><img src="{{company.logo_image}}" alt="{{company.title}}"></a>
         {% endfor %}
     </div>
 </div>
