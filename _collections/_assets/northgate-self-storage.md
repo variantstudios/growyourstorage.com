@@ -7,6 +7,7 @@ location:
   zipcode: '80921'
 net_rentable_sq_ft: '80,000'
 units: '619'
+website_url: 'https://www.northgatestorageunits.com/'
 gys_companies:
   - property-management
   - development
