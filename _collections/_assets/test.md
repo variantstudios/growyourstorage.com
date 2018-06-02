@@ -1,0 +1,11 @@
+---
+title: test
+location:
+  address:
+  city:
+  state:
+  zipcode:
+net_rentable_sq_ft:
+units:
+website_url:
+---
