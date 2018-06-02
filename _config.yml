@@ -128,7 +128,7 @@ typekit: "dan8xfd"
 # Google Analytics 
 google_analytics_tracking_id:
 
-include: ["_pages", "_collections"]
+include: ["_collections"]
 
 exclude: [
   "collections",

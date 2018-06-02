@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Industry Updates
 header_image: '/assets/images/headers/blog.jpg'
 search_engine_optimization:
   page_title: "Blog"
@@ -10,4 +10,3 @@ permalink: /blog/
 layout: blog
 class: blog
 ---
-<h1>Blog</h1>

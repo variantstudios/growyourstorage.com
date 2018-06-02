@@ -1,26 +1,25 @@
 - text: Development
-  url: /development/overview/
   subitems:
     - text: Overview
-      url: /development/overview/
+      url: /development/
     - text: Assets
       url: /development/assets/
     - text: Contact
       url: /development/contact/
 - text: Property Management
-  url: /property-management/overview/
+  url: /property-management/
   subitems:
     - text: Overview
-      url: /property-management/overview/
+      url: /property-management/
     - text: Assets
       url: /property-management/assets/
     - text: Contact
       url: /property-management/contact/
 - text: General Contracting
-  url: /general-contracting/overview/
+  url: /general-contracting/
   subitems:
     - text: Overview
-      url: /general-contracting/overview/
+      url: /general-contracting/
     - text: Assets
       url: /general-contracting/assets/
     - text: Contact
