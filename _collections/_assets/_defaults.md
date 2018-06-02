@@ -7,5 +7,5 @@ location:
   zipcode:
 net_rentable_sq_ft:
 units:
-website_url:
+gys_companies:
 ---
