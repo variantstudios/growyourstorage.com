@@ -1,11 +1,12 @@
 ---
-title: test
+title: A-1 Self Storage of Lufkin
 location:
-  address:
-  city:
-  state:
-  zipcode:
-net_rentable_sq_ft:
-units:
-website_url:
+  address: 1701 Feagin Drive
+  city: Lufkin
+  state: Texas
+  zipcode: '75904'
+net_rentable_sq_ft: '105,060'
+units: '648'
+website_url: 'https://www.selfstorageoflufkin.com/'
 ---
+
