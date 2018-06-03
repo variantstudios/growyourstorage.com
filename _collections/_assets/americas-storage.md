@@ -11,5 +11,6 @@ opening:
 website_url: 'https://www.americasstorage646.com/'
 gys_companies:
   - property-management
+  - development
 ---
 

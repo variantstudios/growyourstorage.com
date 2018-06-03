@@ -10,6 +10,5 @@ units: '245'
 opening:
 website_url: 'https://www.selfstoragemontgomerytexas.com/'
 gys_companies:
-  - general-contracting
 ---
 

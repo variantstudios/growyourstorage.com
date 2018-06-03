@@ -10,6 +10,8 @@ units: '460'
 opening:
 website_url: 'https://www.mesaridgeselfstorage.com/'
 gys_companies:
+  - development
   - property-management
+  - general-contracting
 ---
 
