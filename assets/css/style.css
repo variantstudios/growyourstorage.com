@@ -823,7 +823,6 @@ iframe {
 }
 .footer-wrapper .subpage {
   background: none;
-  padding-top: 1rem;
 }
 .footer-wrapper .footer-inner.clearfix.container-padding-medium {
   padding-bottom: 0;
@@ -1191,7 +1190,6 @@ a.call-to-action:hover {
   margin: 0 auto 2rem auto;
   padding: 2rem;
   max-width: 1200px;
-  background: rgba(255, 255, 255, 0.85);
 }
 
 .lightbox {
@@ -1284,6 +1282,18 @@ a.call-to-action:hover {
   background: #7A7C7F;
   border: none;
   padding: 11px 27px;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.sticky:before,
+.sticky:after {
+  content: '';
+  display: table;
 }
 
 .assets {

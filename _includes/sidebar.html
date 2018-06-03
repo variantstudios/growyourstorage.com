@@ -1,8 +1,6 @@
-<aside class="sidebar">
-    <div class="toc">
-        toc
-    </div>
-    <div class="sidebar-logos">
-        logos
-    </div>
+<aside class="sidebar sticky">
+        <div class="toc"></div>
+        <div class="sidebar-logos">
+            {% for logo in page.logos %} {{}} {% endfor %}
+        </div>
 </aside>
