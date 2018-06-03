@@ -10,6 +10,6 @@ units: '464'
 opening:
 website_url: 'https://www.timberlineselfstorage.com/'
 gys_companies:
-  - general-contracting
+  - property-management
 ---
 
