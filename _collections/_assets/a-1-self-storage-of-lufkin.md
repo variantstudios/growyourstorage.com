@@ -10,7 +10,6 @@ units: '648'
 opening:
 website_url: 'https://www.selfstorageoflufkin.com/'
 gys_companies:
-  - general-contracting
   - property-management
 ---
 
