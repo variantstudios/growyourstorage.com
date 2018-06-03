@@ -9,81 +9,43 @@ search_engine_optimization:
 layout: page-sidebar
 ---
 
-### Who is GYS
+### GYS Development
 
-Grow Your Storage, LLC is a Texas based property management company. &nbsp;We specialize in first party property management services for the self-storage facilities partially owned by the members of Grow Your Storage, LLC. &nbsp;Additionally, we provide mentoring and consulting services to third party self-storage owners and property managers.
+### Why GYS
 
-The managing members of Grow Your Storage, LLC are Lee Fredrick and Denise Bowley. &nbsp;Lee serves as the executive officer and Denise is the operations officer. Our senior staff members are Ashley Smith Colorado Area Supervisor, Jason Lee Texas Area Supervisor and Phyllis Stovall Certified Trainer, Pat Bailey and Anita Milam, Accounting Team.
+GYS Development LLC is an opportunist real estate development company focused on the self storage asset class. &nbsp;From conception through disposition, GYS Development looks to maximizes cash flow and financial returns for investors and clients on a continual basis. &nbsp;
 
-Grow Your Storage has developed a series of training videos and uses the training to insure each store manager has the tools needed to succeed. This training program is called Self Storage Science and covers everything from leasing to proper procedure for lien auctions.
+At GYS Development, we know how to locate a great site, develop a plan, manage the project, get a facility built, and get self storage facilities off of the ground and operational in timely manner. &nbsp; &nbsp;Visit our portfolio tab to see a list and locations of our facilities.
 
-Grow Your Storage trains each store manager to develop a connection with a potential customer. To ask questions that matter to the customer. Be caring and compassionate. Our customer service motto &nbsp;instilled in our staff is “Moving is stressful, self-storage shouldn’t be.” Managers are trained to recognize the challenges caused by moving and to be sensitive to their customers stress level and anxiety.
+### Our Services
 
-There are many catastrophic events related to the operations of a self-storage facility which we have handled: Fire, Flooding, Break-ins, Homeless, Employee Theft, Tornadoes, Hail, Building Damage, Lightning Damage include some of the most challenging.
+* Our company’s development services include:
+* Site review and evaluation
+* Acquisitions and brokerage
+* Entitlements & approvals
+* Internal feasibility studies
+* Trade area market analysis
+* Unit mix and building layout design
+* Real estate due diligence
+* Pro forma management and project underwriting
+* Specific go/no go analysis
+* Design team management
+* Development & construction management
+* Debt and equity structures and sourcing
+* Capital partners
+* Operating agreements/JV structures
+* Development in several different states. &nbsp;Visit our [assets](/development/assets/) tab to see a list and locations of our facilities.
 
-Grow Your Storage has a methodical process for managing rates, each facility’s unit pricing is evaluated twice a year. On average only, two percent of the current tenants move out due to price adjustments. The newly vacant units are usually rented quickly at a higher rate than the previous tenant.
+### We believe in
 
-### When
+**“See the Big Picture and Execute the Details”**&nbsp;It takes an interesting type of individual to open a fully completed new building, sometimes pushing 100,000 SF, with no tenants and combine that with the absolute expectation of success and a plan to realize that success. That is the kind of people that we are at GYS Development. &nbsp;
 
-Grow Your Storage, LLC takes on the role of property manager immediately upon acquisition or sixty days prior to certificate of occupancy. &nbsp;We manage the day to day operations until disposal of the assets.
+GYS Development treats each self-storage project as a unique business opportunity and challenge. Each project is distinct in its location, customer base, growth potential, accessibility, rates, and sponsorship. GYS Development goes through a 4-tier market study and evaluates each property across numerous performance criteria to assess its productivity relative to its potential. The company does not look at consolidated reports which tend to hide the weaknesses of a facility behind the strength of another facility. Each property is analyzed in detail on its stand-alone performance. It takes persistent effort, market experience, and strategic timing to develop a top performing self-storage facility.
 
-### Why Use GYS
+**“Start with the End in Mind”**
 
-Although self-storage seems easy to run, we &nbsp;have watched many new developers and owners fail because they do not have the tools or experience needed to be successful. &nbsp;Structure, organization, policies, accountability must be present to be successful. Grow Your Storage, LLC understands every market and each facility is different we treat each facility individually yet provide uniformity. &nbsp;Having the same policies in place at all facilities allows our “trust and verify” program simple to manage.
+We are building cashflows, in the form of renting storage units. In order to do this, one needs to start with a clear vision of the finished product. A stabilized cash flowing property is an outcome that can be achieved by pursuing a comprehensive, integrated approach to self-storage development. Success is not a given. Self-storage developments do fail. There are many challenges that catch even experienced developers unaware. One must begin with a commitment to build an economically feasible project from conception to certificate of occupancy and through disposition.
 
-### Services offered
+**“Act Systematically or Not at All”**
 
-**Day to Day Operations:**
-
-* Daily problem-solving and overall staff management
-* Revenue management
-* Monthly property audits
-* Facility maintenance
-* Negotiations and vendor management
-* Lien Sale execution
-* IT support
-
-**Accounting Services:**
-
-* Annual Operations Expense Budget and Income Forecast
-* Monthly Financial Statements
-* General ledger maintenance, review, and analysis
-* Monthly bank reconciliations
-* Full cycle accounts payable utilizing paperless system
-* Payroll services
-* Sales tax filings
-* Coordination of property tax payments and appeals
-* Insurance renewals
-
-**Training and Support:**
-
-We have developed our own self storage staff training program and require each new employee to complete the course. &nbsp;During the program the staff member learns how to:
-
-* Collect and post payments
-* Lease units
-* Clean units
-* Sell/Close
-* Handling delinquent accounts
-* General facility maintenance
-* Break Ins
-* Perform a walk through
-* Manage Rate increases
-* Respond to a disaster
-* Organize their time
-* Understand and present the self storage lease
-* Handle upset customers
-* Ask for online reviews/referrals
-* Set up for an auction
-
-In addition to the how to videos each staff member learns what their responsibilities are and how to execute them. &nbsp;Grow Your Storage, LLC provides each manager with an operations manual and each staff member knows they can call their Area Supervisor or the Operations Officer at any time for any reason.
-
-Each staff member is also required to complete software training annually.
-
-**Marketing**
-
-* Blogging
-* Social Media Account Management
-* Partnered with G5 Marketing for web design and hosting
-* Systematic program for obtaining online reviews
-* Trains store manager to perform grassroots marketing in their market
-* Teaches storage managers to build strong referral networks
+In order to develop a self-storage project in today’s current environment, one must have a system in order to succeed. That is to say: without a step-by-step method of project management, you are condemning a project to underperformance or complete failure. &nbsp;There are so many potential snags to get a self-storage development complete that include (but not limited too); tough entitlements due to municipalities not wanting additional storage, land use code changes, increasing cost of land, environmental and building code issues, sponsorship strength, lender underwriting scrutiny, upper-ward pressure on interest rates, other self storage developments saturating markets, complex real estate structures, title and legal issues, &nbsp;increasing construction costs, and the list goes on. For example, entitlement procedures that used to take 6 months can now extend as long as 24 months (if you need to hear specific nightmares, give us a call). Construction costs are rapidly escalating as the availability of quality sub-contractors decreases. If you aren't utilizing a tried-and-true project management system, you will lose sight of your critical paths, and subsequently, your opening date will move further and further away. We have created a project development system that works exclusively for self-storage.
