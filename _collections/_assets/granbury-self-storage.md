@@ -10,7 +10,6 @@ units: '444'
 opening:
 website_url: 'https://www.granburystorage.com/'
 gys_companies:
-  - general-contracting
   - property-management
 ---
 
