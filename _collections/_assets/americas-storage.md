@@ -10,6 +10,6 @@ units: '372'
 opening:
 website_url: 'https://www.americasstorage646.com/'
 gys_companies:
-  - general-contracting
+  - property-management
 ---
 
