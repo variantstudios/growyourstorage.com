@@ -9,7 +9,7 @@ search_engine_optimization:
 layout: page-sidebar
 ---
 
-# GYS General Contracting Contact
+# GYS General Contracting
 
 ### Contact
 
