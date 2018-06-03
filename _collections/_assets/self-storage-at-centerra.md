@@ -10,6 +10,6 @@ units: '446'
 opening:
 website_url: 'https://www.centerraselfstorage.com/'
 gys_companies:
-  - general-contracting
+  - property-management
 ---
 
