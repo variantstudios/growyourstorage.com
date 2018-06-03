@@ -2,12 +2,14 @@
 title: Fulshear Self Storage
 location:
   address:
-  city:
-  state:
+  city: Fulsehar/Katy
+  state: Texas
   zipcode:
-net_rentable_sq_ft:
+net_rentable_sq_ft: '85,000'
 units:
-opening:
+opening: Spring 2019
 website_url:
 gys_companies:
+  - development
 ---
+
