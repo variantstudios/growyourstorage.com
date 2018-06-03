@@ -11,5 +11,6 @@ opening: Jan 2019
 website_url:
 gys_companies:
   - development
+  - general-contracting
 ---
 

@@ -11,5 +11,6 @@ opening:
 website_url: 'https://www.centerraselfstorage.com/'
 gys_companies:
   - property-management
+  - development
 ---
 

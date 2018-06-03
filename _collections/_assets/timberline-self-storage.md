@@ -11,5 +11,7 @@ opening:
 website_url: 'https://www.timberlineselfstorage.com/'
 gys_companies:
   - property-management
+  - development
+  - general-contracting
 ---
 

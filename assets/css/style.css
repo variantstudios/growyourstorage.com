@@ -1301,8 +1301,11 @@ a.call-to-action:hover {
       align-content: center;
 }
 .assets .asset {
-  margin: 1rem auto;
-  min-width: 200px;
+  margin: .8rem .5rem;
+  min-width: 250px;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
   background: #eee;
   padding: .5rem 1rem;
   -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.3);
