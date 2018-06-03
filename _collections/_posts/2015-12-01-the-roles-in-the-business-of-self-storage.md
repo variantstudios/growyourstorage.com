@@ -21,4 +21,4 @@ The first role is the leader. The leader provides the vision and direction for t
 
 The last role is the support. These are critical on-site staff members who are surrogates for the operator. Support staff handle essential operations in the absence of the operator. Their key task is sales, i.e., renting units to prospects. It is their responsibility to keep regular operations moving and to report any extraordinary activity to the operator.
 
-If a self-storage business does not have these roles sufficiently filled, the property is losing money and is being set up for bigger problems. For more information about how to fill these roles so that you make more money with less stress, visit us at&nbsp;[www.selfstoragescience.com](http://www.selfstoragescience.com/){: target="_blank"}
+If a self-storage business does not have these roles sufficiently filled, the property is losing money and is being set up for bigger problems. For more information about how to fill these roles so that you make more money with less stress, visit us at [www.selfstoragescience.com](http://www.selfstoragescience.com/){: target="_blank"}
