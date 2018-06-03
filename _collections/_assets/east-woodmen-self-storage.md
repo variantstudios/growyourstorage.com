@@ -1,13 +1,15 @@
 ---
 title: East Woodmen Self Storage
 location:
-  address:
-  city:
-  state:
-  zipcode:
-net_rentable_sq_ft:
-units:
+  address: 7115 Forest Meadows Avenue
+  city: Colorado Springs
+  state: Colorado
+  zipcode: '80908'
+net_rentable_sq_ft: '53,800'
+units: '416'
 opening:
-website_url:
+website_url: 'https://www.eastwoodmenstorage.com/'
 gys_companies:
+  - general-contracting
 ---
+
