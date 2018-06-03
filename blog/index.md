@@ -1,12 +1,14 @@
 ---
 title: Industry Updates
-header_image: '/assets/images/headers/blog.jpg'
+logo_path: '/assets/images/logo.svg'
+header_image: '/assets/images/headers/subpage-header.jpg'
 search_engine_optimization:
-  page_title: "Blog"
-  page_description: "Join us on our learning journey..."
+  page_title: "Industry Updates"
+  page_description: ""
 pagination:
   enabled: true
 permalink: /blog/
 layout: blog
 class: blog
 ---
+Coming soon

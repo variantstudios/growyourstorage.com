@@ -3,11 +3,11 @@ layout: default
 ---
 <div class="subpage-header" style="background-image:url({{page.header_image}})"></div>
 <main>
-  <div class="subpage with-sidebar">
-    <div class="content">
+  <div class="subpage with-sidebar clearfix">
+    {% include_cached sidebar.html %}
+     <div class="content clearfix">
       {{ content }}
     </div>
-    {% include_cached sidebar.html %}
   </div>
 </main>
 

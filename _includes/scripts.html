@@ -19,7 +19,10 @@
 <script src="/assets/js/prod/modernizr-2.8.3.min.js"></script>
 <script src="/assets/js/prod/zepto.1.2.0.min.js"></script>
 <script src="/assets/js/prod/scripts.js"></script>
-
+{% if page.layout == 'page-sidebar' %}
+<script src="/assets/js/prod/sticky.js"></script>
+<script src="/assets/js/prod/toc.js"></script>
+{% endif %}
 <script>
     (function(d) {
         var config = {
