@@ -2,12 +2,14 @@
 title: Powers Self Storage
 location:
   address:
-  city:
-  state:
+  city: Colorado Springs
+  state: Colorado
   zipcode:
-net_rentable_sq_ft:
+net_rentable_sq_ft: '80,603'
 units:
-opening:
+opening: Jan 2019
 website_url:
 gys_companies:
+  - development
 ---
+
