@@ -1,6 +1,6 @@
 ---
 title: Random Thoughts on Self-Storage Management
-date: 2016-06-15 00:00:00
+date: 2016-05-11 00:00:00
 categories:
 search_engine_optimization:
   page_title: Random Thoughts on Self-Storage Management
@@ -22,19 +22,9 @@ Here are the essential tasks of a good self-storage operator:
 
 When you carry out these tasks effectively and consistently, the performance of your facility will improve, and that’s what we are all about.
 
- 
-
- 
-
 Nationwide studies show that 1-in-3 phone calls to self-storage facilities is converted into a visit. This means that an average potential customer is going to call at least three facilities before choosing one. It also means that you have an opportunity to convert more of these callers into visitors. This is your primary job: get this person off of the phone and into your store! When answering the call, don’t even think about getting them to sign a contract. Your goal is to create a strong enough impression, a real connection, that this person will come see you. You will not be successful by giving the same information that they hear from the other two facilities that they are calling. You have 45 seconds to make a connection with the person on the other end of the line, and the clock is ticking…
 
- 
-
- 
-
 When managed correctly, self-storage is a very simple business.  If, however, you don’t stay in front of the daily tasks and occassional challenges, this business will wear you out.  I think that there are a couple key ideas that will help you keep it simple.  First:  know what you do.  You rent self-storage units and create satisified customers.  This bit of self-knowledge must guide you in everything that you do at your store.  Second: ask yourself good questions.  What do I need to do now in order to rent my next unit?  What else can I do to enhance my store?  What skill do I need to improve today so that I am a better manager tomorrow?  Third:  ask me any question.  Managing a self-storage facility is a growth process.  What worked today will not necessarily be adequate tomorrow.  I am continually learning from you, from other owners, from literature and web sites, and from other businesses.  I am a resource that’s always available to help you elevate your skill set,  increase your competence, enjoy job satisfaction, and ultimately, rent more self-storage units.
-
- 
 
 It’s my experience that life is fundamentally challenging.  Learning how to walk.  Going through adolescence.  Getting the dog to mind.  Using a new software program.  Working with a new boss.  Opening a cereal package without scattering it across the kitchen.  We all have plenty to deal with.
 
