@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-<div class="subpage-header" style="background-image:url({{page.header_image}})">
-</div>
+<div class="subpage-header" style="background-image:url({{page.header_image}})"></div>
 <main>
   <div class="subpage with-sidebar">
-    <div class="content">{{ content }}</div>
-    {% include sidebar.html %}
+    <div class="content">
+      {{ content }}
+    </div>
+    {% include_cached sidebar.html %}
   </div>
 </main>
 

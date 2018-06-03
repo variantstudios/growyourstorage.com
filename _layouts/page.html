@@ -1,13 +1,15 @@
 --- 
 layout: default 
 ---
-<div class="background">
-    {% comment %}<img src="" alt="Compass background" class="bg"> {% endcomment %}
-    <section class="subpage wrap">
-        <div>{{ content }}</div>
-
-        {% if page.permalink == "/contribute/" %} 
-        {% include contribute.html %} 
+<div class="subpage-header" style="background-image:url({{page.header_image}})"></div>
+<main>
+  <div class="subpage">
+    <div class="content">
+      {{ content }}
+    </div>
+    <div class="content">
+        {% if page.permalink == "/development/assets/" or page.permalink == "/property-management/assets/" or page.permalink == "/general-contracting/assets/" %} 
+            {% include_cached assets.html gys_company=page._gys_company %} 
         {% elsif page.permalink == "/faqs/" %} 
         {% include faqs.html %} 
         {% elsif page.permalink == "/contact-us/" %} 
@@ -15,7 +17,6 @@ layout: default
         {% elsif page.permalink == "/search/" %}
         {% include google-search.html %} 
         {% endif %} 
-        
-
-    </section>
-</div>
+    </div>
+  </div>
+</main>

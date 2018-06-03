@@ -6,6 +6,9 @@ search_engine_optimization:
   page_title:
   page_description:
   share_image_path:
-layout: page-sidebar
+layout: page
+permalink: "/development/assets/"
+_gys_company: 'development'
 ---
-Development Assets
+# GYS Development Assets
+Add text here...

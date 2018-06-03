@@ -7,9 +7,9 @@ location:
   zipcode: '78006'
 net_rentable_sq_ft: '106,000'
 units: '594'
+opening:
 website_url: 'https://www.selfstorageofboerne.com/'
 gys_companies:
-  - development
   - property-management
 ---
 

@@ -1286,6 +1286,49 @@ a.call-to-action:hover {
   padding: 11px 27px;
 }
 
+.assets {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row wrap;
+          flex-flow: row wrap;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+.assets .asset {
+  margin: 1rem auto;
+  min-width: 200px;
+  background: #eee;
+  padding: .5rem 1rem;
+  -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.3);
+          box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.3);
+}
+.assets .asset h3 {
+  font-size: 1.6rem;
+  margin: 0 0 .5rem 0;
+}
+.assets .asset p {
+  margin: 0 0 .5rem 0;
+}
+.assets .asset .address {
+  margin: 0 0 .5rem 0;
+}
+.assets .asset .address .streetAddress {
+  display: block;
+}
+.assets .asset .website_url a {
+  text-decoration: none;
+  color: #333;
+}
+.assets .asset .website_url .icon-link {
+  width: 15px;
+}
+
 form .form-super-group {
   margin-top: .5rem;
 }
