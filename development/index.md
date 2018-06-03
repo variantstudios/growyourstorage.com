@@ -9,7 +9,7 @@ search_engine_optimization:
 layout: page-sidebar
 ---
 
-### Who
+### Who is GYS
 
 Grow Your Storage, LLC is a Texas based property management company. &nbsp;We specialize in first party property management services for the self-storage facilities partially owned by the members of Grow Your Storage, LLC. &nbsp;Additionally, we provide mentoring and consulting services to third party self-storage owners and property managers.
 
@@ -27,11 +27,11 @@ Grow Your Storage has a methodical process for managing rates, each facility’s
 
 Grow Your Storage, LLC takes on the role of property manager immediately upon acquisition or sixty days prior to certificate of occupancy. &nbsp;We manage the day to day operations until disposal of the assets.
 
-### Why
+### Why Use GYS
 
 Although self-storage seems easy to run, we &nbsp;have watched many new developers and owners fail because they do not have the tools or experience needed to be successful. &nbsp;Structure, organization, policies, accountability must be present to be successful. Grow Your Storage, LLC understands every market and each facility is different we treat each facility individually yet provide uniformity. &nbsp;Having the same policies in place at all facilities allows our “trust and verify” program simple to manage.
 
-### Services offered:
+### Services offered
 
 **Day to Day Operations:**
 
