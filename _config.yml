@@ -52,13 +52,16 @@ collections:
   categories:
     output: true
     permalink: '/blog/category/:title/'
+    _hide_content: true
   tags:
     output: true
     permalink: '/blog/tag/:title/'
+    _hide_content: true
   sg:
     output: false
   assets:
     output: false
+    _hide_content: true
 
 defaults:
   -
