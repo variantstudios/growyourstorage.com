@@ -1,13 +1,15 @@
 ---
 title: Timberline Self Storage
 location:
-  address:
-  city:
-  state:
-  zipcode:
-net_rentable_sq_ft:
-units:
+  address: 2120 Midpoint Drive
+  city: Fort Collins
+  state: Colorado
+  zipcode: '80525'
+net_rentable_sq_ft: '59,500'
+units: '464'
 opening:
-website_url:
+website_url: 'https://www.timberlineselfstorage.com/'
 gys_companies:
+  - general-contracting
 ---
+
