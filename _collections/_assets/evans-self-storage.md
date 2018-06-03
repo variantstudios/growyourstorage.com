@@ -10,6 +10,6 @@ units: '396'
 opening:
 website_url: 'https://www.evansselfstorage.com/'
 gys_companies:
-  - general-contracting
+  - property-management
 ---
 
