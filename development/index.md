@@ -23,59 +23,6 @@ There are many catastrophic events related to the operations of a self-storage f
 
 Grow Your Storage has a methodical process for managing rates, each facility’s unit pricing is evaluated twice a year. On average only, two percent of the current tenants move out due to price adjustments. The newly vacant units are usually rented quickly at a higher rate than the previous tenant.
 
-Day to Day Operations:
-
-* Daily problem-solving and overall staff management
-* Revenue management
-* Monthly property audits
-* Facility maintenance
-* Negotiations and vendor management
-* Lien Sale execution
-* IT support
-
-Accounting Services:
-
-* Annual Operations Expense Budget and Income Forecast
-* Monthly Financial Statements
-* General ledger maintenance, review, and analysis
-* Monthly bank reconciliations
-* Full cycle accounts payable utilizing paperless system
-* Payroll services
-* Sales tax filings
-* Coordination of property tax payments and appeals
-* Insurance renewals
-
-**Training and Support:**
-
-We have developed our own self storage staff training program and require each new employee to complete the course. &nbsp;During the program the staff member learns how to:
-
-* Collect and post payments
-* Lease units
-* Clean units
-* Sell/Close
-* Handling delinquent accounts
-* General facility maintenance
-* Break Ins
-* Perform a walk through
-* Manage Rate increases
-* Respond to a disaster
-* Organize their time
-* Understand and present the self storage lease
-* Handle upset customers
-* Ask for online reviews/referrals
-* Set up for an auction
-
-In addition to the how to videos each staff member learns what their responsibilities are and how to execute them. &nbsp;Grow Your Storage, LLC provides each manager with an operations manual and each staff member knows they can call their Area Supervisor or the Operations Officer at any time for any reason. Each staff member is also required to complete software training annually.
-
-**Marketing**
-
-* Blogging
-* Social Media Account Management
-* Partnered with G5 Marketing for web design and hosting
-* Systematic program for obtaining online reviews
-* Trains store manager to perform grassroots marketing in their market
-* Teaches storage managers to build strong referral networks
-
 ### When
 
 Grow Your Storage, LLC takes on the role of property manager immediately upon acquisition or sixty days prior to certificate of occupancy. &nbsp;We manage the day to day operations until disposal of the assets.
@@ -132,4 +79,11 @@ In addition to the how to videos each staff member learns what their responsibil
 
 Each staff member is also required to complete software training annually.
 
-&nbsp;
+**Marketing**
+
+* Blogging
+* Social Media Account Management
+* Partnered with G5 Marketing for web design and hosting
+* Systematic program for obtaining online reviews
+* Trains store manager to perform grassroots marketing in their market
+* Teaches storage managers to build strong referral networks
