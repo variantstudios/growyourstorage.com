@@ -10,7 +10,6 @@ units: '272'
 opening:
 website_url: 'https://www.allseasonsstoragegranbury.com/'
 gys_companies:
-  - general-contracting
   - property-management
 ---
 
