@@ -22,5 +22,10 @@ ToC += '</ul>' + '</nav>';
 
 $('.toc').prepend(ToC);
 
-var elements = document.querySelectorAll('.sticky');
-Stickyfill.add(elements);
+if (window.matchMedia('(min-width: 800px)').matches) {
+  var elements = document.querySelectorAll('.sticky');
+  Stickyfill.add(elements);
+  //console.log('Wide viewport');
+} else {
+  //console.log('Small viewport');
+}

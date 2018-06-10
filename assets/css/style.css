@@ -1284,12 +1284,23 @@ a.call-to-action:hover {
   padding: 11px 27px;
 }
 
-.sidebar.sticky {
+@media (min-width: 50em) {
+  .sidebar.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+  .sidebar.sticky:before, .sidebar.sticky:after {
+    content: '';
+    display: table;
+  }
+}
+.no-mq .sidebar.sticky {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
 }
-.sidebar.sticky:before, .sidebar.sticky:after {
+.no-mq .sidebar.sticky:before, .no-mq .sidebar.sticky:after {
   content: '';
   display: table;
 }
@@ -1321,10 +1332,21 @@ a.call-to-action:hover {
 }
 .sidebar .sidebar-logos {
   margin: 1rem 0 0 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+@media (min-width: 50em) {
+  .sidebar .sidebar-logos {
+    display: block;
+  }
+}
+.no-mq .sidebar .sidebar-logos {
+  display: block;
 }
 .sidebar .sidebar-logos a {
   display: block;
-  margin: 0 0 .5rem 0;
+  margin: 0 .5rem .5rem .5rem;
 }
 
 .assets {
