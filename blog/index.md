@@ -1,6 +1,5 @@
 ---
 title: Industry Updates
-logo_path: '/assets/images/logo.svg'
 header_image: '/assets/images/headers/subpage-header.jpg'
 search_engine_optimization:
   page_title: "Industry Updates"

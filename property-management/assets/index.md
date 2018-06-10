@@ -1,6 +1,5 @@
 ---
 title: "GYS Property Management Assets"
-logo_path: '/assets/images/logos/gys-dev-logo.svg'
 header_image: '/assets/images/headers/subpage-header.jpg'
 search_engine_optimization:
   page_title:
