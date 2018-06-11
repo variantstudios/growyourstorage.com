@@ -1,15 +1,15 @@
 ---
-title: "GYS Development Contact"
-header_image: '/assets/images/headers/subpage-header.jpg'
+title: GYS Development Contact
+header_image: /assets/images/headers/subpage-header.jpg
 search_engine_optimization:
-  page_title:
+  page_title: GYS Development Team
   page_description:
   share_image_path:
 layout: page-sidebar
-_gys_company: 'development'
+_gys_company: development
 ---
 
-### GYS Development Team
+# GYS Development Team
 
 ### Lee Fredrick
 
