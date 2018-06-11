@@ -9,7 +9,7 @@ layout: page-sidebar
 _gys_company: 'development'
 ---
 
-### GYS Development
+# GYS Development
 
 ### Why GYS
 
@@ -50,4 +50,4 @@ We are building cashflows, in the form of renting storage units. In order to do 
 
 **“Act Systematically or Not at All”**
 
-In order to develop a self-storage project in today’s current environment, one must have a system in order to succeed. That is to say: without a step-by-step method of project management, you are condemning a project to underperformance or complete failure. &nbsp;There are so many potential snags to get a self-storage development complete that include (but not limited too); tough entitlements due to municipalities not wanting additional storage, land use code changes, increasing cost of land, environmental and building code issues, sponsorship strength, lender underwriting scrutiny, upper-ward pressure on interest rates, other self storage developments saturating markets, complex real estate structures, title and legal issues, &nbsp;increasing construction costs, and the list goes on. For example, entitlement procedures that used to take 6 months can now extend as long as 24 months (if you need to hear specific nightmares, give us a call). Construction costs are rapidly escalating as the availability of quality sub-contractors decreases. If you aren't utilizing a tried-and-true project management system, you will lose sight of your critical paths, and subsequently, your opening date will move further and further away. We have created a project development system that works exclusively for self-storage.
+In order to develop a self-storage project in today’s current environment, one must have a system in order to succeed. That is to say: without a step-by-step method of project management, you are condemning a project to underperformance or complete failure. &nbsp;There are so many potential snags to get a self-storage development complete that include (but not limited too); tough entitlements due to municipalities not wanting additional storage, land use code changes, increasing cost of land, environmental and building code issues, sponsorship strength, lender underwriting scrutiny, upper-ward pressure on interest rates, other self storage developments saturating markets, complex real estate structures, title and legal issues, &nbsp;increasing construction costs, and the list goes on. For example, entitlement procedures that used to take 6 months can now extend as long as 24 months (if you need to hear specific nightmares, give us a call). Construction costs are rapidly escalating as the availability of quality sub-contractors decreases. If you aren’t utilizing a tried-and-true project management system, you will lose sight of your critical paths, and subsequently, your opening date will move further and further away. We have created a project development system that works exclusively for self-storage.
