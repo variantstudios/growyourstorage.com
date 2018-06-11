@@ -1515,7 +1515,6 @@ body.front .subpage {
   margin-bottom: 0;
 }
 body.front #site-header {
-  background-image: url("/assets/images/headers/home-headers.jpg");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;

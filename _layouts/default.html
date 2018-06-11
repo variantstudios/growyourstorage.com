@@ -13,7 +13,7 @@ layout: compress
     {% comment %}{% include_cached browserupgrade.html %}{% endcomment %}
   
 
-    <div id="site-header" class="header-wrapper clearfix">
+    <div id="site-header" class="header-wrapper clearfix" style="background-image:url({%if page.header_image%}{{page.header_image}}{% else %}/assets/images/headers/home-headers.jpg{% endif %})">
         {% include_cached header.html group=page.group url=page.url %}
     </div>
     {% if page.layout != 'front' %}
