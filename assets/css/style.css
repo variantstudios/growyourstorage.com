@@ -311,16 +311,57 @@ table.sticky-enabled thead th, table.sticky-header thead th {
 ul.pager {
   margin: 1em 0 0;
   padding: 1em 0 0;
-  border-top: 1px solid #6e6f72;
+  text-align: center;
+}
+@media (min-width: 50em) {
+  ul.pager {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+.no-mq ul.pager {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 ul.pager li {
   display: inline-block;
   list-style: none;
-  padding-right: .5em;
   color: #4DA4F1;
+}
+@media (min-width: 50em) {
+  ul.pager li {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+}
+.no-mq ul.pager li {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
 }
 ul.pager li a:visited {
   color: #4DA4F1;
+}
+@media (min-width: 50em) {
+  ul.pager li.previous {
+    text-align: left;
+    padding: 1rem 0 1rem 1rem;
+  }
+  ul.pager li.next {
+    text-align: right;
+    padding: 1rem 1rem 1rem 0;
+  }
+}
+.no-mq ul.pager li.previous {
+  text-align: left;
+  padding: 1rem 0 1rem 1rem;
+}
+.no-mq ul.pager li.next {
+  text-align: right;
+  padding: 1rem 1rem 1rem 0;
 }
 
 .styleguide-wrapper {

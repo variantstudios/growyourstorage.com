@@ -1,7 +1,8 @@
 --- 
 layout: default 
 ---
-<div class="subpage-header" style="background-image:url({{page.header_image}})"></div>
+
+<div class="subpage-header" style="background-image:url({%if page.header_image%}{{page.header_image}}{% else %}/assets/images/headers/subpage-header.jpg{% endif %})"></div>
 <main>
   <div class="subpage">
     <div class="content">
