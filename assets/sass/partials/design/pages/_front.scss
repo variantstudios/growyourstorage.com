@@ -3,25 +3,21 @@ body.front {
         margin-bottom: 0;
     }
     #site-header {
-        background-image: url('/assets/images/headers/home-headers.jpg');
+        //background-image: url('/assets/images/headers/home-headers.jpg');
         background-repeat: no-repeat;
         background-position: top center;
         background-size: cover;
         min-height: 220px;
-        @include breakpoint($bp-small,
-        $no-query: '.no-mq') {
+        @include breakpoint($bp-small, $no-query: '.no-mq') {
             min-height: 280px;
         }
-        @include breakpoint($bp-xsmall,
-        $no-query: '.no-mq') {
+        @include breakpoint($bp-xsmall, $no-query: '.no-mq') {
             min-height: 340px;
         }
-        @include breakpoint($bp-medium,
-        $no-query: '.no-mq') {
+        @include breakpoint($bp-medium, $no-query: '.no-mq') {
             min-height: 490px;
         }
-        @include breakpoint('1200px',
-        $no-query: '.no-mq') {
+        @include breakpoint('1200px', $no-query: '.no-mq') {
             min-height: 660px;
         }
     }
@@ -31,8 +27,7 @@ body.front {
             margin: 0 auto;
             padding: 0 .5rem;
         }
-        @include breakpoint($bp-medium,
-        $no-query: '.no-mq') {
+        @include breakpoint($bp-medium, $no-query: '.no-mq') {
             text-align: center;
             display: flex;
             justify-content: center;
@@ -112,8 +107,7 @@ body.front {
 
 .container-padding-medium {
     padding: 2rem;
-    @include breakpoint($bp-large,
-    $no-query: '.no-mq') {
+    @include breakpoint($bp-large, $no-query: '.no-mq') {
         padding: 2rem 0;
     }
 }
