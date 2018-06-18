@@ -43,6 +43,6 @@ Brandon also holds his general contractors license, along with David Harvey, and
 
 *<u><strong>Pre-construction:</strong></u>*&nbsp;This is a project-specific function. Depending on the project we can offer pre-construction and pricing at no cost. Each project, each owner is unique and we will work with the project team to be certain our pre-construction helps propel your project forward.
 
-<u><strong>Construction Management:</strong></u> We are full-service general contracting buisness. All we need is the approved drawing set and we will take the project from there.
+<u><strong>Construction Management:</strong></u> We are full-service general contracting business. All we need is the approved drawing set and we will take the project from there.&nbsp;
 
-Regions: GYS GC is continually expanding into new regions and markets. Regardless of where your project is in the United States, GYS GC can build there.
+<u><strong>Regions</strong></u>**<u>:</u>** GYS GC is continually expanding into new regions and markets. Regardless of where your project is in the United States, GYS GC can build there. We hold Class A and Class B licences in multiple regions. All we need to know is where you want to build.
