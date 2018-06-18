@@ -25,7 +25,7 @@ Outside of the collective core competencies of the GYS GC team, there is the ove
 
 The GYS GC business model is aimed at service and efficiency – our clients do not pay for exaggerated overhead. When negotiating the final contracts for a project, clients can see that part of GYS GC’s competitive pricing is paying only for the tools essential to managing the construction project. Nonetheless, the processes and procedures, the software and document control employed here were developed to compete with the largest construction firms today.
 
-#### ***GYS GC TEAM***
+### ***GYS GC TEAM***
 
 <u><em><strong>David Harvey</strong></em></u> is the company operations manager and will also serve as the project manager for this project. Graduating with a bachelor’s degree in Psychology from Colorado College, a career in construction seemed unlikely. However, what started as carpentry side-work evolved into being the operations manager and PM for a small concrete contractor in Colorado Springs. Further advancement in the construction industry landed David as a project engineer and project manager for a diverse range of commercial projects including churches, office buildings, retail buildings, grocery stores, large civil projects and tenant improvement projects.
 
@@ -46,3 +46,33 @@ Brandon also holds his general contractors license, along with David Harvey, and
 <u><strong>Construction Management:</strong></u> We are full-service general contracting business. All we need is the approved drawing set and we will take the project from there.&nbsp;
 
 <u><strong>Regions</strong></u>**<u>:</u>** GYS GC is continually expanding into new regions and markets. Regardless of where your project is in the United States, GYS GC can build there. We hold Class A and Class B licences in multiple regions. All we need to know is where you want to build.
+
+&nbsp;
+
+### Pertinent Projects
+
+* Self Storage at Centerra Phase 2: A 20,000 SF expansion to an existing facility in Loveland, CO.&nbsp;
+* E. Woodmen Self Storage Phase 2: An 18,000 SF expansion to an existing facility.&nbsp;
+* Timberline Self Storage: A new ground up facility with over 81,000 SF of building footprint across 11 buildings.&nbsp;
+* Mesa Ridge Self Storage: A new &nbsp;ground up 81,000 SF facility across 10 storage buildings and an office building in Fountain, CO.&nbsp;
+* Blackhawk Self Storage: a 113,000 SF, 3-story self storage project in Houston, TX.&nbsp;
+* South College Self Storage: a 107,000 SF, 3-story self storage project in Fort Collins, CO.
+* A1 Self Storage Expansion: a 10,000 SF additional building on an existing facility in Lufkin, TX.&nbsp;
+* Maizeland Self Storage: a new ground up 64,000 SF facility across 10 storage buildings and an office/apartment building in Colorado Springs, CO.&nbsp;
+* Powers Self Storage: a 107,000 SF, 3-story self storage project in Colorado Springs, CO.
+* Windsor Self Storage:&nbsp; 67,000 SF single story project across several buildings – this is the first phase of the project located in Windsor, CO.&nbsp;
+* Laramie Self Storage: a 62,000 SF single story project across several buildings – this is the first phase of the project located in Laramie, WY.
+
+&nbsp;
+
+### Contact Us
+
+<div><u><strong>Phone</strong></u>: 719-510-4202</div>
+
+<div><u><strong>Email</strong></u>: david@growyourstorage.com</div>
+
+<div><u><strong>Address</strong></u>:</div>
+
+<div>791 Copper Center Pkwy</div>
+
+<div>Colorado Springs, CO 80921</div>
