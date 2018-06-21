@@ -69,7 +69,7 @@ Brandon also holds his general contractors license, along with David Harvey, and
 
 <div><u><strong>Phone</strong></u>: 719-510-4202</div>
 
-<div><u><strong>Email</strong></u>: david@growyourstorage.com</div>
+<div><u><strong>Email</strong></u>: estimating@growyourstorage.com</div>
 
 <div><u><strong>Address</strong></u>:</div>
 
