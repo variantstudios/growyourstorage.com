@@ -9,5 +9,5 @@ layout: page
 permalink: "/property-management/assets/"
 _gys_company: 'property-management'
 ---
-# GYS Property Management Assets
-Add text here...
+
+# GYS Property Management Properties
