@@ -12,7 +12,7 @@
   subitems:
     - text: Overview
       url: /property-management/
-    - text: Assets
+    - text: Properties
       url: /property-management/assets/
     - text: Contact
       url: /property-management/contact/
