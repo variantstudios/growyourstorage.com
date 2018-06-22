@@ -13,8 +13,6 @@ _gys_company: 'general-contracting'
 
 *We Build Self Storage*
 
-### &nbsp;
-
 ### About Us
 
 GYS General Contracting was established August 2nd of 2016. However, the body of experience behind it’s inception goes back decades. Lee Frederick (see complete Bio below), has been in the self storage industry for decades, and his experience informs the entire approach of the general contracting business. Every decision made or not made is directed at an end product that improves the user experience of our facilities – and the user experience directly translates to return renters.
@@ -67,11 +65,11 @@ Brandon also holds his general contractors license, along with David Harvey, and
 
 ### Contact Us
 
-<div><u><strong>Phone</strong></u>: 719-510-4202</div>
+<div><strong>Phone</strong>: 719-510-4202</div>
 
-<div><u><strong>Email</strong></u>: estimating@growyourstorage.com</div>
+<div><strong>Email</strong>: <a data-cms-editor-link-style="undefined" href="mailto:estimating@growyourstorage.com">estimating@growyourstorage.com</a></div>
 
-<div><u><strong>Address</strong></u>:</div>
+<div><strong>Address</strong>:</div>
 
 <div>791 Copper Center Pkwy</div>
 
