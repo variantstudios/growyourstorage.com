@@ -3,7 +3,7 @@ title: The Roles in the Business of Self-Storage
 date: 2015-12-01 00:00:00
 categories:
 search_engine_optimization:
-  page_title:
+  page_title: The Roles in the Business of Self-Storage
   page_description:
 ---
 
