@@ -2,7 +2,7 @@
 title: Self-Storage as an Asset
 date: 2015-12-02 00:00:00
 search_engine_optimization:
-  page_title:
+  page_title: Self-Storage as an Asset
   page_description:
 ---
 
