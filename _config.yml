@@ -49,19 +49,6 @@ collections:
   posts:
     output: true
     permalink: '/blog/:title/'
-  categories:
-    output: true
-    permalink: '/blog/category/:title/'
-    _hide_content: true
-  tags:
-    output: true
-    permalink: '/blog/tag/:title/'
-    _hide_content: true
-  sg:
-    output: false
-  assets:
-    output: false
-    _hide_content: true
 
 defaults:
   -
@@ -73,19 +60,6 @@ defaults:
       _options:
         image_path: # Front matter field
           uploads_dir: "assets/images/posts/"
-  -
-    scope:
-      type: sg
-    values:
-      layout: styleguide-block
-  -
-    scope:
-      type: categories
-    values:
-      layout: category
-      class: blog
-      pagination: 
-        enabled: true
   -
     scope:
       type: assets
