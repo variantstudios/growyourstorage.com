@@ -1,7 +1,6 @@
 ---
 title: Random Thoughts on Self-Storage Management
 date: 2016-05-11 00:00:00
-categories:
 search_engine_optimization:
   page_title: Random Thoughts on Self-Storage Management
   page_description:
