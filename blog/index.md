@@ -10,4 +10,3 @@ permalink: /blog/
 layout: blog
 class: blog
 ---
-Coming soon
