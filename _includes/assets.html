@@ -3,7 +3,7 @@
     {% assign gys_company = page._gys_company %} 
     
     {% for asset in site.assets %} 
-    {{assets[0].title}}
+    {{asset.gys_companies}}
     {% if asset.gys_companies contains page._gys_company %}
     <div class="asset">
         <div itemscope itemtype="http://schema.org/LocalBusiness" class="address">
