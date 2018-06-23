@@ -9,7 +9,6 @@ layout: default
     </div>
     <div class="content">
         {% if page.permalink == "/development/assets/" or page.permalink == "/property-management/assets/" or page.permalink == "/general-contracting/assets/" %}
-        assets
             {% include_cached assets.html gys_company=page._gys_company %} 
         {% elsif page.permalink == "/faqs/" %} 
         {% include faqs.html %} 
