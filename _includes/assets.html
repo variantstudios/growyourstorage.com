@@ -1,4 +1,5 @@
 <div class="assets">
+    {{gys_company}}
     {% assign gys_company = page._gys_company %} {% for asset in site.assets %} {% if asset.gys_companies contains gys_company %}
     <div class="asset">
         <div itemscope itemtype="http://schema.org/LocalBusiness" class="address">
