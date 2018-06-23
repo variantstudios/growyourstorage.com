@@ -1,9 +1,10 @@
 <div class="assets">
-    page._gys_company: {{page._gys_company}}
-    page.gys_company: {{page.gys_company}}
+ 
     {% assign gys_company = page._gys_company %} 
+    
     {% for asset in site.assets %} 
-    {% if asset.gys_companies contains gys_company %}
+    
+    {% if asset.gys_companies contains page._gys_company %}
     <div class="asset">
         <div itemscope itemtype="http://schema.org/LocalBusiness" class="address">
             <h3><span itemprop="name">{{asset.title}}</span></h3>
