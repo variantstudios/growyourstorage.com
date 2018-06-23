@@ -2,7 +2,7 @@
  
     {% assign gys_company = page._gys_company %} 
     
-    {% for asset in site.assets %} 
+    {% for asset in collections.assets %} 
     {{asset}}
     {% if asset.gys_companies contains page._gys_company %}
     <div class="asset">
