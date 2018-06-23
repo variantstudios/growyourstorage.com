@@ -46,6 +46,9 @@ compress_html:
 
 #Collections
 collections:
+  assets:
+    output: false
+    _hide_content: true
   posts:
     output: true
     permalink: '/blog/:title/'
