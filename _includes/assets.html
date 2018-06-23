@@ -1,5 +1,6 @@
 <div class="assets">
-    {{page._gys_company}}
+    page._gys_company: {{page._gys_company}}
+    page.gys_company: {{page.gys_company}}
     {% assign gys_company = page._gys_company %} 
     {% for asset in site.assets %} 
     {% if asset.gys_companies contains gys_company %}
