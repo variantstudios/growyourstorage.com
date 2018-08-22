@@ -1,10 +1,10 @@
 ---
-title: Fulshear Self Storage
+title: Fulshear Bend Self Storage
 location:
-  address:
-  city: Fulsehar/Katy
+  address: 4826 FM 1463 Rd.
+  city: Katy
   state: Texas
-  zipcode:
+  zipcode: '77494'
 net_rentable_sq_ft: '85,000'
 units:
 opening: Spring 2019
