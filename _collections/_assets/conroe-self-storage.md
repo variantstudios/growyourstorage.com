@@ -2,9 +2,9 @@
 title: Conroe Self Storage
 location:
   address:
-  city:
-  state:
-  zipcode:
+  city: Conroe
+  state: TX
+  zipcode: '77304'
 net_rentable_sq_ft:
 units:
 opening:
