@@ -10,4 +10,5 @@ units:
 opening:
 website_url:
 gys_companies:
+  - development
 ---
