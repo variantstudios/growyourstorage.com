@@ -1,10 +1,10 @@
 ---
-title: East Windsor Self Storage
+title: Falcon Point Self Storage
 location:
-  address:
+  address: 600 Gyrfalcon Ct.
   city: Windsor
   state: Colorado
-  zipcode:
+  zipcode: '80550'
 net_rentable_sq_ft: '59,675'
 units:
 opening: Nov 2018
