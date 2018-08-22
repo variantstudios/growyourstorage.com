@@ -6,7 +6,7 @@ location:
   state: Texas
   zipcode: '77494'
 net_rentable_sq_ft: '85,000'
-units:
+units: '794'
 opening: Summer 2019
 website_url:
 gys_companies:
