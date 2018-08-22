@@ -5,9 +5,11 @@ location:
   city: Houston
   state: Texas
   zipcode: '77034'
-net_rentable_sq_ft:
-units:
-opening:
+net_rentable_sq_ft: '62,744'
+units: '607'
+opening: Spring 2019
 website_url:
 gys_companies:
+  - development
+  - general-contracting
 ---
