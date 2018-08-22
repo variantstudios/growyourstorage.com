@@ -1,10 +1,10 @@
 ---
 title: Blackhawk Self Storage
 location:
-  address:
-  city: Pearland
+  address: 10646 Blackhawk Blvd.
+  city: Houston
   state: Texas
-  zipcode:
+  zipcode: '77089'
 net_rentable_sq_ft: '86,950'
 units:
 opening: Fall 2018
