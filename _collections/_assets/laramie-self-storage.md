@@ -1,10 +1,10 @@
 ---
 title: Laramie Self Storage
 location:
-  address:
+  address: 1161 Evans St.
   city: Laramie
   state: Wyoming
-  zipcode:
+  zipcode: '82070'
 net_rentable_sq_ft: '56,500'
 units:
 opening: Oct 2018
