@@ -5,7 +5,7 @@ location:
   city: Erie
   state: Colorado
   zipcode: '80516'
-net_rentable_sq_ft:
+net_rentable_sq_ft: '72,000'
 units:
 opening:
 website_url:
