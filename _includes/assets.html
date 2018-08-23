@@ -16,9 +16,8 @@
 
         <span class="details">
             {%if asset.net_rentable_sq_ft%}<p class="net_rentable_sq_ft">{{asset.net_rentable_sq_ft}} Net Rentable Sq Ft</p>{%endif%}
-            {%if asset.opening%}<p class="opening">Opening: {{asset.opening}}</p>{%endif%}
-            
             {%if asset.units%}<p class="units">{{asset.units}} Units</p>{%endif%}
+            {%if asset.opening%}<p class="opening">Opening: {{asset.opening}}</p>{%endif%}
             {%if asset.website_url%}<p class="website_url"><a href="{{asset.website_url}}" target="_blank" title="{{asset.title}} website">website
             </a></p>{%endif%}
         </span>
