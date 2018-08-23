@@ -17,7 +17,7 @@ GYS Development LLC is an opportunist real estate development company focused on
 
 At GYS Development, we know how to locate a great site, develop a plan, manage the project, get a facility built, and get self storage facilities off of the ground and operational in timely manner. &nbsp; &nbsp;Visit our portfolio tab to see a list and locations of our facilities.
 
-### Our company’s development services include:
+### Development services include:
 
 * Site review and evaluation
 * Acquisitions and brokerage
