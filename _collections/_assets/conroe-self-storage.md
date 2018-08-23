@@ -5,7 +5,7 @@ location:
   city: Conroe
   state: Texas
   zipcode:
-net_rentable_sq_ft:
+net_rentable_sq_ft: '80,000'
 units:
 opening:
 website_url:
