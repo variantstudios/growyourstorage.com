@@ -1,7 +1,7 @@
 ---
 title: A-1 Self Storage of Lufkin
 location:
-  address: 1701 Feagin Drive
+  address: 1705 Feagin Drive
   city: Lufkin
   state: Texas
   zipcode: '75904'
