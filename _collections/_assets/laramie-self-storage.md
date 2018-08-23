@@ -6,8 +6,8 @@ location:
   state: Wyoming
   zipcode: '82070'
 net_rentable_sq_ft: '56,500'
-units:
-opening: Oct 2018
+units: '424'
+opening: November 2018
 website_url:
 gys_companies:
   - development
