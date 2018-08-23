@@ -1,13 +1,13 @@
 ---
 title: Powers Self Storage
 location:
-  address:
+  address: 3601 Blue Horizon View
   city: Colorado Springs
   state: Colorado
-  zipcode:
+  zipcode: '80920'
 net_rentable_sq_ft: '80,603'
-units:
-opening: Jan 2019
+units: '710'
+opening: Spring 2019
 website_url:
 gys_companies:
   - development
