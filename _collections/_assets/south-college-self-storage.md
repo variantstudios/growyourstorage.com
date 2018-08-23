@@ -1,12 +1,12 @@
 ---
 title: South College Self Storage
 location:
-  address:
+  address: 137 W. Skyway Dr.
   city: Fort Collins
   state: Colorado
-  zipcode:
-net_rentable_sq_ft: '61,500'
-units: '485'
+  zipcode: '80525'
+net_rentable_sq_ft: '80,850'
+units: '705'
 opening: Dec 2018
 website_url:
 gys_companies:
