@@ -9,11 +9,11 @@ layout: page
 _gys_company: development
 ---
 
-## &nbsp;
+## GYS - In the News
+
+&nbsp;
 
 [https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468){: target="_blank"}
-
-### &nbsp;
 
 [http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/](http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/){: target="_blank"}
 
