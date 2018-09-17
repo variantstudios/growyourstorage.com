@@ -5,7 +5,7 @@ search_engine_optimization:
   page_title: In the News
   page_description:
   share_image_path:
-layout: blog
+layout: page
 _gys_company: development
 ---
 
