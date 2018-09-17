@@ -11,10 +11,10 @@ _gys_company: development
 
 ## &nbsp;
 
-### [https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468){: target="_blank"}
+[https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468){: target="_blank"}
 
 ### &nbsp;
 
-### [http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/](http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/){: target="_blank"}
+[http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/](http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/){: target="_blank"}
 
 # &nbsp;
