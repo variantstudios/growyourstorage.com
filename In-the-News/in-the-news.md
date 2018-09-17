@@ -9,6 +9,6 @@ layout: post
 _gys_company: development
 ---
 
-# GYS Development
+# &nbsp;
 
 ### &nbsp;
