@@ -17,4 +17,12 @@ _gys_company: development
 
 [http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/](http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/){: target="_blank"}
 
-# &nbsp;
+[https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/](https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/){: target="_blank"}
+
+[https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins](https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins){: target="_blank"}
+
+[https://bizwest.com/2017/10/17/texas-based-firm-building-self-storage-units-foco-windsor/?member=guest](https://bizwest.com/2017/10/17/texas-based-firm-building-self-storage-units-foco-windsor/?member=guest){: target="_blank"}
+
+[https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/](https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/){: target="_blank"}
+
+[http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc](http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc){: target="_blank"}
