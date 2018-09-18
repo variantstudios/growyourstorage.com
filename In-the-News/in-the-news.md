@@ -26,3 +26,5 @@ _gys_company: development
 [https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/](https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/){: target="_blank"}
 
 [http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc](http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc){: target="_blank"}
+
+[https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest](https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest){: target="_blank"}
