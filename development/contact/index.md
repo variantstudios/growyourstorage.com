@@ -31,7 +31,7 @@ Brandon Grebe is an entrepreneur. &nbsp;He is a co-founder and partner of GYS De
 
 ### Tony Ollila
 
-Email: [tony@growyourstorage.com](mailto:tony@growyourstorage.com)
+Email: tony@growyourstorage.com
 
 Cell: 970-420-1521
 
