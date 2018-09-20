@@ -13,9 +13,9 @@ _gys_company: development
 
 ### Why GYS
 
-GYS Development LLC is an opportunist real estate development company focused on the self storage asset class. &nbsp;From conception through disposition, GYS Development looks to maximize cash flow and financial returns for investors and clients on a continual basis. &nbsp;
+GYS Development LLC is an opportunistic real estate development company focused on the self storage asset class. &nbsp;From conception through disposition, GYS Development looks to maximize cash flow and financial returns for investors and clients on a continual basis. &nbsp;
 
-At GYS Development, we know how to locate a great site, develop a plan, manage the project, get a facility built, and get self storage facilities off of the ground and operational in timely manner. &nbsp; &nbsp;Visit our portfolio tab to see a list and locations of our facilities.
+At GYS Development, we know how to locate a great site, develop a plan, manage the project and get a facility built and operational in timely manner.&nbsp; Visit our portfolio tab to see a list of our facilities.
 
 ### Development services include:
 
@@ -27,25 +27,25 @@ At GYS Development, we know how to locate a great site, develop a plan, manage t
 * Unit mix and building layout design
 * Real estate due diligence
 * Pro forma management and project underwriting
-* Specific go/no go analysis
+* Specific go/no-go analysis
 * Design team management
 * Development & construction management
 * Debt and equity structures and sourcing
 * Capital partners
 * Operating agreements/JV structures
-* Development management in several different states. &nbsp;Visit our [assets](/development/assets/) tab to see a list and locations of our facilities.
+* Development management in several different states. &nbsp;Visit our [assets](/development/assets/) tab to see a list of our facilities.
 
 ### We believe in
 
 **“See the Big Picture and Execute the Details”**&nbsp;
 
-It takes an interesting type of individual to open a fully completed new building, sometimes pushing 100,000 SF, with no tenants and combine that with the absolute expectation of success and a plan to realize that success. That is the kind of people that we are at GYS Development. &nbsp;
+It takes an interesting type of individual to open a new building, sometimes pushing 100,000 SF, with no tenants and combine that with the absolute expectation of success and a plan to realize that success. That is the kind of people we are at GYS Development. &nbsp;
 
 GYS Development treats each self-storage project as a unique business opportunity and challenge. Each project is distinct in its location, customer base, growth potential, accessibility, rates, and sponsorship. GYS Development goes through a 4-tier market study and evaluates each property across numerous performance criteria to assess its productivity relative to its potential. The company does not look at consolidated reports which tend to hide the weaknesses of a facility behind the strength of another facility. Each property is analyzed in detail on its stand-alone performance. It takes persistent effort, market experience, and strategic timing to develop a top performing self-storage facility.
 
 **“Start with the End in Mind”**
 
-We are building cashflows, in the form of renting storage units. In order to do this, one needs to start with a clear vision of the finished product. A stabilized cash flowing property is an outcome that can be achieved by pursuing a comprehensive, integrated approach to self-storage development. Success is not a given. Self-storage developments do fail. There are many challenges that catch even experienced developers unaware. One must begin with a commitment to build an economically feasible project from conception to certificate of occupancy and through disposition.
+We are building cash flows in the form of renting storage units. In order to do this, one needs to start with a clear vision of the finished product. A stabilized, cash flowing property is an outcome that can be achieved by pursuing a comprehensive, integrated approach to self-storage development. Success is not a given. Self-storage developments do fail. There are many challenges that catch even experienced developers unaware. One must begin with a commitment to build an economically feasible project from conception to certificate of occupancy and through disposition.
 
 **“Act Systematically or Not at All”**
 
