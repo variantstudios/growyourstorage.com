@@ -11,4 +11,15 @@
                 </label> {% include nav.html nav=site.data.main-menu %}
         </nav>
     </div>
+
+    {% if page.layout == 'front'%}
+    <div class="owl-carousel">
+        {% for image in page.header_images limit:3 %}
+        <div class="slide">
+            <img src="{{image.header_image}}" alt="{{site.name}}">
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+
 </header>

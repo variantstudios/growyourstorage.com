@@ -517,6 +517,24 @@ iframe {
   margin: 0;
 }
 
+@media (min-width: 0) and (max-width: 50em) {
+  body.front .menu-icon {
+    top: -70px;
+  }
+}
+.no-mq body.front .menu-icon {
+  top: -70px;
+}
+
+@media (min-width: 0) and (max-width: 50em) {
+  body.not-front .menu-icon {
+    top: -100px;
+  }
+}
+.no-mq body.not-front .menu-icon {
+  top: -100px;
+}
+
 .main-nav {
   margin: .7rem 0 0 0;
 }
@@ -532,15 +550,13 @@ iframe {
     cursor: pointer;
     display: block;
     padding: 16px 16px;
-    position: relative;
+    position: absolute;
     -webkit-user-select: none;
        -moz-user-select: none;
         -ms-user-select: none;
             user-select: none;
-    margin-top: -14px;
-    top: 14px;
+    margin-top: 0;
     right: 0;
-    position: absolute;
   }
   .main-nav .menu-icon .navicon {
     background: #000;
@@ -601,15 +617,13 @@ iframe {
   cursor: pointer;
   display: block;
   padding: 16px 16px;
-  position: relative;
+  position: absolute;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  margin-top: -14px;
-  top: 14px;
+  margin-top: 0;
   right: 0;
-  position: absolute;
 }
 .no-mq .main-nav .menu-icon .navicon {
   background: #000;
@@ -680,7 +694,8 @@ iframe {
   padding-right: 0;
 }
 .main-nav > .menu {
-  padding: 0;
+  margin: 0;
+  padding: 1rem 0 0 1rem;
   font-family: "azo-sans-web", Helvetica, Arial, sans-serif;
   font-size: 1em;
   background: #fff;
@@ -690,7 +705,6 @@ iframe {
   -webkit-transition: all 225ms cubic-bezier(0.47, 0.39, 0.25, 1.35);
   transition: all 225ms cubic-bezier(0.47, 0.39, 0.25, 1.35);
   text-align: left;
-  margin: 0 0 1rem 1rem;
 }
 @media (min-width: 50em) {
   .main-nav > .menu {
@@ -859,11 +873,17 @@ iframe {
   text-decoration: none;
 }
 
+body.front .footer-wrapper .subpage {
+  background: none;
+  margin-bottom: 1.5rem;
+}
+
 .footer-wrapper {
   background-color: #7A7C7F;
 }
 .footer-wrapper .subpage {
   background: none;
+  margin-bottom: 1.5rem;
 }
 .footer-wrapper .footer-inner.clearfix.container-padding-medium {
   padding-bottom: 0;
@@ -943,6 +963,8 @@ header.siteheader {
   background: none;
 }
 header.siteheader .logo {
+  z-index: 2;
+  position: relative;
   text-align: center;
 }
 @media (min-width: 50em) {
@@ -962,6 +984,8 @@ header.siteheader .logo {
   clear: none;
 }
 header.siteheader .main-nav {
+  z-index: 2;
+  position: relative;
   width: 100%;
   float: none;
 }
@@ -1513,6 +1537,36 @@ form .align-right {
 
 body.front .subpage {
   margin-bottom: 0;
+}
+body.front .owl-item {
+  position: relative;
+}
+body.front .owl-item:after {
+  background: rgba(255, 255, 255, 0) -webkit-gradient(linear, left top, left bottom, color-stop(10%, rgba(0, 0, 0, 0)), color-stop(40%, rgba(255, 255, 255, 0.1)), color-stop(75%, rgba(255, 255, 255, 0.5)), to(#ffffff)) repeat scroll 0 0;
+  background: rgba(255, 255, 255, 0) -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 10%, rgba(255, 255, 255, 0.1) 40%, rgba(255, 255, 255, 0.5) 75%, #ffffff 100%) repeat scroll 0 0;
+  background: rgba(255, 255, 255, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 10%, rgba(255, 255, 255, 0.1) 40%, rgba(255, 255, 255, 0.5) 75%, #ffffff 100%) repeat scroll 0 0;
+  position: absolute;
+  content: "";
+  margin-top: -200px;
+  height: 200px;
+  bottom: 0;
+  width: 100%;
+}
+body.front .owl-carousel {
+  min-height: 220px;
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+body.front .owl-carousel .owl-item img {
+  min-width: 100%;
+  min-height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 body.front #site-header {
   background-repeat: no-repeat;

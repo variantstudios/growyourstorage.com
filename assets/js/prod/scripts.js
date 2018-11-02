@@ -1,1 +1,1 @@
-$(document).ready(function(){Modernizr.mq("only all")?$("html").addClass("mq"):$("html").addClass("no-mq")});
+$(document).ready(function(){Modernizr.mq("only all")?$("html").addClass("mq"):$("html").addClass("no-mq"),$(".owl-carousel").owlCarousel({loop:!0,autoplay:!0,autoplayHoverPause:!1,autoplaySpeed:2500,animateOut:"fadeOut",animateIn:"fadeIn",items:1,autoHeight:!1,dots:!1,lazyLoad:!0,lazyLoadEager:1})});
