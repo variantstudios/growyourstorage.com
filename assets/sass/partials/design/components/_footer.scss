@@ -1,8 +1,17 @@
+body.front {
+    .footer-wrapper {
+        .subpage {
+            background: none;
+            margin-bottom: 1.5rem;
+        }
+    }
+}
+
 .footer-wrapper {
     background-color: $color-two;
     .subpage {
         background: none;
-        //padding-top: 1rem;
+        margin-bottom: 1.5rem;
     }
     // margin: 2rem 0 0 0;
     .footer-inner.clearfix.container-padding-medium {

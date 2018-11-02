@@ -15,17 +15,16 @@
     <meta property="og:image" content="{{ site.url }}{{ include.share_image_path }}">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/print.css" media="print">
+    <link rel="stylesheet" href="/assets/css/print.css" media="print"> {% if page.layout == 'front' %} {% else %} {% endif %}
 
-{% if page.layout == 'front' %}
-{% else %}
-{% endif %}
-
-<!-- Apple Touch, Fav Icon, and Windows Tile -->
+    <!-- Apple Touch, Fav Icon, and Windows Tile -->
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
     <!-- <link href="<link href="https://fonts.googleapis.com/css?family=Abhaya+Libre:400,800|Montserrat:500,700,900|Teko:500" rel="stylesheet">" rel="stylesheet"> -->
+
+
+    <link rel="stylesheet" href="/assets/js/prod/owl/assets/owl.carousel.min.css">
 
     <!-- HTML 5 Shiv -->
     <!--[if lt IE 9]> <script src="/assets/js/prod/html5shiv.min.js"></script> <![endif]-->
