@@ -6,8 +6,9 @@ location:
   state: AZ
   zipcode:
 net_rentable_sq_ft:
-units:
-opening:
+units: '733'
+opening: Spring 2020
 website_url:
 gys_companies:
+  - development
 ---
