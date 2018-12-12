@@ -7,10 +7,11 @@ location:
   zipcode: '77089'
 net_rentable_sq_ft: '86,950'
 units: '809'
-opening: Fall 2018
-website_url:
+opening:
+website_url: 'https://www.blackhawkselfstorageunits.com/'
 gys_companies:
   - development
   - general-contracting
+  - property-management
 ---
 
