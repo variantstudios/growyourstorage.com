@@ -2,8 +2,8 @@
 title: Longmont Self Storage
 location:
   address:
-  city:
-  state:
+  city: Longmont
+  state: CO
   zipcode:
 net_rentable_sq_ft:
 units:
