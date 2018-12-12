@@ -5,8 +5,8 @@ location:
   city: Katy
   state: Texas
   zipcode: '77494'
-net_rentable_sq_ft: '85,000'
-units: '794'
+net_rentable_sq_ft: '84,475'
+units: '791'
 opening: Summer 2019
 website_url:
 gys_companies:
