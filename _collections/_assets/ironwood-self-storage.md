@@ -5,7 +5,7 @@ location:
   city: San Tan Valley
   state: AZ
   zipcode:
-net_rentable_sq_ft:
+net_rentable_sq_ft: '80,000'
 units: '733'
 opening: Spring 2020
 website_url:
