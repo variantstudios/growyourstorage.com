@@ -6,7 +6,7 @@ location:
   state: Colorado
   zipcode: '80920'
 net_rentable_sq_ft: '80,603'
-units: '710'
+units: '711'
 opening: Spring 2019
 website_url:
 gys_companies:
