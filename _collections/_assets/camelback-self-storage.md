@@ -5,8 +5,8 @@ location:
   city: Glendale
   state: Arizona
   zipcode:
-net_rentable_sq_ft: '80,000'
-units:
+net_rentable_sq_ft: '78,515'
+units: '743'
 opening: Fall 2019
 website_url:
 gys_companies:
