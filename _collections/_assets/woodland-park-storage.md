@@ -2,8 +2,8 @@
 title: Woodland Park Storage
 location:
   address:
-  city:
-  state:
+  city: Woodland Park
+  state: CO
   zipcode:
 net_rentable_sq_ft:
 units:
