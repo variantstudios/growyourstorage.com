@@ -1,6 +1,6 @@
 ---
 title: GYS General Contracting
-header_image: /assets/images/landscape-rendering.jpg
+header_image: /assets/images/document2.jpg
 search_engine_optimization:
   page_title:
   page_description:
