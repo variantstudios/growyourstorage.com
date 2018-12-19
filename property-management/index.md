@@ -1,6 +1,6 @@
 ---
 title: GYS Property Management
-header_image: /assets/images/headers/home-headers.jpg
+header_image: /assets/images/document1.jpg
 search_engine_optimization:
   page_title:
   page_description:
