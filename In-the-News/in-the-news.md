@@ -1,6 +1,6 @@
 ---
 title: GYS - In the News
-header_image: /assets/images/headers/subpage-header.jpg
+header_image: /assets/images/fulshear-1.jpg
 search_engine_optimization:
   page_title: In the News
   page_description:
@@ -11,7 +11,7 @@ _gys_company: development
 
 ## GYS - In the News
 
-&nbsp;
+ 
 
 [https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468){: target="_blank"}
 
