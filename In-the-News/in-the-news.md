@@ -15,7 +15,7 @@ _gys_company: development
 
 2.5 acre land purchase - Fulshear, TX&nbsp; &nbsp;[https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468){: target="_blank"}
 
-[http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/](http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/){: target="_blank"}
+Blackhawk Self Storage Opening - Houston, TX&nbsp; &nbsp;[http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/](http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/){: target="_blank"}
 
 [https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/](https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/){: target="_blank"}
 
