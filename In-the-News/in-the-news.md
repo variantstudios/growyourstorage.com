@@ -21,7 +21,7 @@ Timberline Self Storage Breaks Ground - Fort Collins, CO&nbsp; &nbsp;[https://ww
 
 Timberline Self Storage - Fort Collins, CO&nbsp; &nbsp;[https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins](https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins){: target="_blank"}
 
-[https://bizwest.com/2017/10/17/texas-based-firm-building-self-storage-units-foco-windsor/?member=guest](https://bizwest.com/2017/10/17/texas-based-firm-building-self-storage-units-foco-windsor/?member=guest){: target="_blank"}
+Fort Collins and Windsor Colorado&nbsp; &nbsp;[https://bizwest.com/2017/10/17/texas-based-firm-building-self-storage-units-foco-windsor/?member=guest](https://bizwest.com/2017/10/17/texas-based-firm-building-self-storage-units-foco-windsor/?member=guest){: target="_blank"}
 
 [https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/](https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/){: target="_blank"}
 
