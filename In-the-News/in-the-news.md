@@ -27,7 +27,7 @@ Fort Collins and Windsor Colorado&nbsp; &nbsp;[https://bizwest.com/2017/10/17/te
 
 Grow Your Storage in the industry&nbsp; &nbsp;[http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc](http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc){: target="_blank"}
 
-[https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest](https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest){: target="_blank"}
+Houston and Fulshear Texas&nbsp; &nbsp;[https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest](https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest){: target="_blank"}
 
 [https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92970](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92970){: target="_blank"}
 
