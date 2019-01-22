@@ -29,6 +29,6 @@ Grow Your Storage in the industry&nbsp; &nbsp;[http://www.construction-today.com
 
 Pearland and Fulshear Texas&nbsp; &nbsp;[https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest](https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest){: target="_blank"}
 
-[https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92970](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92970){: target="_blank"}
+Blackhawk in Pearland, TX Open&nbsp; &nbsp;[https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92970](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92970){: target="_blank"}
 
 [https://medium.com/union-realtime/union-realtime-announces-3-minute-setup-for-its-store-level-occupancy-network-7439f61ff98b](https://medium.com/union-realtime/union-realtime-announces-3-minute-setup-for-its-store-level-occupancy-network-7439f61ff98b){: target="_blank"}
