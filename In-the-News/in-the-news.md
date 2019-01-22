@@ -29,4 +29,4 @@ Fort Collins and Windsor Colorado&nbsp; &nbsp;[https://bizwest.com/2017/10/17/te
 
 Grow Your Storage in the industry&nbsp; &nbsp;[http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc](http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc){: target="_blank"}
 
-[https://medium.com/union-realtime/union-realtime-announces-3-minute-setup-for-its-store-level-occupancy-network-7439f61ff98b](https://medium.com/union-realtime/union-realtime-announces-3-minute-setup-for-its-store-level-occupancy-network-7439f61ff98b){: target="_blank"}
+Union Realtime Partnership&nbsp; &nbsp;[https://medium.com/union-realtime/union-realtime-announces-3-minute-setup-for-its-store-level-occupancy-network-7439f61ff98b](https://medium.com/union-realtime/union-realtime-announces-3-minute-setup-for-its-store-level-occupancy-network-7439f61ff98b){: target="_blank"}
