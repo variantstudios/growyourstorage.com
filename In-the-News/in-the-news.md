@@ -21,4 +21,4 @@ _gys_company: development
 * 1700 units in Fort Collins and Windsor, CO&nbsp; &nbsp;[https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/](https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/){: target="_blank"}
 * Grow Your Storage in the industry&nbsp; &nbsp;[http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc](http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc){: target="_blank"}
 * Union Realtime Partnership&nbsp; &nbsp;[https://medium.com/union-realtime/union-realtime-announces-3-minute-setup-for-its-store-level-occupancy-network-7439f61ff98b](https://medium.com/union-realtime/union-realtime-announces-3-minute-setup-for-its-store-level-occupancy-network-7439f61ff98b){: target="_blank"}
-* GYS sells 2 facilities&nbsp; &nbsp;https://www.signatureflip.com/crej/journal/2018-12-05eEdition.pub/16/
+* GYS sells 2 facilities&nbsp; &nbsp;[https://www.signatureflip.com/crej/journal/2018-12-05eEdition.pub/16/](https://www.signatureflip.com/crej/journal/2018-12-05eEdition.pub/16/){: target="_blank"}
