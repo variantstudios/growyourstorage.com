@@ -6,7 +6,7 @@ location:
   state: Colorado
   zipcode: '80525'
 net_rentable_sq_ft: '80,850'
-units: '705'
+units: '706'
 opening:
 website_url:
 gys_companies:
