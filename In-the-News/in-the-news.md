@@ -17,7 +17,7 @@ _gys_company: development
 
 Blackhawk Self Storage Opening - Houston, TX&nbsp; &nbsp;[http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/](http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/){: target="_blank"}
 
-[https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/](https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/){: target="_blank"}
+Timberline Self Storage Breaks Ground - Fort Collins, CO&nbsp; &nbsp;[https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/](https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/){: target="_blank"}
 
 [https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins](https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins){: target="_blank"}
 
