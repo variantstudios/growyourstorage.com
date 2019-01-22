@@ -25,7 +25,7 @@ Fort Collins and Windsor Colorado&nbsp; &nbsp;[https://bizwest.com/2017/10/17/te
 
 1700 units in Fort Collins and Windsor, CO&nbsp; &nbsp;[https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/](https://crej.com/news/self-storage-company-adding-1700-units-three-noco-projects/){: target="_blank"}
 
-[http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc](http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc){: target="_blank"}
+Grow Your Storage in the industry&nbsp; &nbsp;[http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc](http://www.construction-today.com/sections/commercial/3067-grow-your-storage-llc){: target="_blank"}
 
 [https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest](https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest){: target="_blank"}
 
