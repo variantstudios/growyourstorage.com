@@ -19,7 +19,7 @@ Blackhawk Self Storage Opening - Houston, TX&nbsp; &nbsp;[http://rebusinessonlin
 
 Timberline Self Storage Breaks Ground - Fort Collins, CO&nbsp; &nbsp;[https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/](https://www.coloradoan.com/story/money/business/2017/01/10/self-storage-ready-break-ground-timberline/96388814/){: target="_blank"}
 
-[https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins](https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins){: target="_blank"}
+Timberline Self Storage - Fort Collins, CO&nbsp; &nbsp;[https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins](https://www.insideselfstorage.com/companies-and-products/grow-your-storage-pursues-2-mixed-use-self-storage-developments-fort-collins){: target="_blank"}
 
 [https://bizwest.com/2017/10/17/texas-based-firm-building-self-storage-units-foco-windsor/?member=guest](https://bizwest.com/2017/10/17/texas-based-firm-building-self-storage-units-foco-windsor/?member=guest){: target="_blank"}
 
