@@ -13,9 +13,9 @@ _gys_company: development
 
 2.5 acre land purchase - Fulshear, TX&nbsp; &nbsp;[https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92468){: target="_blank"}
 
-Pearland and Fulshear Texas&nbsp; &nbsp;https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest
+Pearland and Fulshear Texas&nbsp; &nbsp;[https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest](https://bizwest.com/2018/09/17/self-storage-company-completes-one-project-begins-another/?member=guest){: target="_blank"}
 
-Blackhawk in Pearland, TX Open&nbsp; &nbsp;https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92970
+Blackhawk in Pearland, TX Open&nbsp; &nbsp;[https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92970](https://www.bisnow.com/houston/news/deal-sheet/this-weeks-houston-deal-sheet-92970){: target="_blank"}
 
 Blackhawk Self Storage Opening - Pearland, TX&nbsp; &nbsp;[http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/](http://rebusinessonline.com/gys-development-opens-three-story-self-storage-facility-in-metro-houston/){: target="_blank"}
 
