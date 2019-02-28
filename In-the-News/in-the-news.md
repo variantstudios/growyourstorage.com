@@ -34,3 +34,5 @@ _gys_company: development
 * GYS sells 2 facilities&nbsp; &nbsp;[https://www.signatureflip.com/crej/journal/2018-12-05eEdition.pub/16/](https://www.signatureflip.com/crej/journal/2018-12-05eEdition.pub/16/){: target="_blank"}
 
 * Camelback Self Storage - Glendale, AZ&nbsp; [https://roselawgroupreporter.com/2019/02/camelback-self-storage-to-bring-approx-800-units-to-gdle/](https://roselawgroupreporter.com/2019/02/camelback-self-storage-to-bring-approx-800-units-to-gdle/){: target="_blank"}
+
+* Camelback Self Storage - Glendale, AZ &nbsp;[https://www.insideselfstorage.com/development/self-storage-development-and-zoning-activity-february-2019](https://www.insideselfstorage.com/development/self-storage-development-and-zoning-activity-february-2019){: target="_blank"}
