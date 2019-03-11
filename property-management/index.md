@@ -1,6 +1,6 @@
 ---
 title: GYS Property Management
-header_image: /assets/images/document1.jpg
+header_image: /assets/images/pflugerville-1.jpg
 search_engine_optimization:
   page_title:
   page_description:
