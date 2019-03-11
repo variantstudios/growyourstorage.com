@@ -1,6 +1,6 @@
 ---
 title: GYS General Contracting
-header_image: /assets/images/document2.jpg
+header_image: /assets/images/south college_pic 675.jpg
 search_engine_optimization:
   page_title:
   page_description:
