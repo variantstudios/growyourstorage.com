@@ -7,7 +7,7 @@ location:
   zipcode: '80516'
 net_rentable_sq_ft: '68,225'
 units: '628'
-opening: Fall 2019
+opening: Spring 2020
 website_url:
 gys_companies:
   - development
