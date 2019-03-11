@@ -5,9 +5,9 @@ location:
   city: Woodland Park
   state: CO
   zipcode:
-net_rentable_sq_ft: '43,000'
-units: 300 & 15 Interior Boat/RV
-opening: Fall 2019
+net_rentable_sq_ft: '63,000'
+units: '522'
+opening: Spring 2020
 website_url:
 gys_companies:
   - development
