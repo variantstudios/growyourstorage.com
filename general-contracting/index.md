@@ -1,6 +1,6 @@
 ---
 title: GYS General Contracting
-header_image: /assets/images/college1000-200.jpg
+header_image: /assets/images/college1000-200-1.jpg
 search_engine_optimization:
   page_title:
   page_description:
