@@ -13,13 +13,13 @@ _gys_company: property-management
 
 ### Who is GYS
 
-Grow Your Storage, LLC is a Texas based property management company.  We specialize in first party property management services for the self-storage facilities partially owned by the members of Grow Your Storage, LLC.  Additionally, we provide mentoring and consulting services to third party self-storage owners and property managers.
+Grow Your Storage, LLC is a Texas based property management company. &nbsp;We specialize in first party property management services for the self-storage facilities partially owned by the members of Grow Your Storage, LLC. &nbsp;Additionally, we provide mentoring and consulting services to third party self-storage owners and property managers.
 
-The managing members of Grow Your Storage, LLC are Lee Fredrick and Denise Bowley.  Lee serves as the executive officer and Denise is the operations officer. Our senior staff members are Ashley Smith Colorado Area Supervisor, Jason Lee Texas Area Supervisor and Phyllis Stovall Certified Trainer, Pat Bailey and Anita Milam, Accounting Team.
+The managing members of Grow Your Storage, LLC are Lee Fredrick and Denise Bowley. &nbsp;Lee serves as the executive officer and Denise is the operations officer. Our senior staff members are Ashley Smith Colorado Area Supervisor, Jason Lee Texas Area Supervisor and Toni Stodden Colorado Area Supervisor, Pat Bailey and Anita Milam, Accounting Team.
 
 Grow Your Storage has developed a series of training videos and uses the training to insure each store manager has the tools needed to succeed. This training program is called Self Storage Science and covers everything from leasing to proper procedure for lien auctions.
 
-Grow Your Storage trains each store manager to develop a connection with a potential customer. To ask questions that matter to the customer. Be caring and compassionate. Our customer service motto  instilled in our staff is “Moving is stressful, self-storage shouldn’t be.” Managers are trained to recognize the challenges caused by moving and to be sensitive to their customers stress level and anxiety.
+Grow Your Storage trains each store manager to develop a connection with a potential customer. To ask questions that matter to the customer. Be caring and compassionate. Our customer service motto &nbsp;instilled in our staff is “Moving is stressful, self-storage shouldn’t be.” Managers are trained to recognize the challenges caused by moving and to be sensitive to their customers stress level and anxiety.
 
 There are many catastrophic events related to the operations of a self-storage facility which we have handled: Fire, Flooding, Break-ins, Homeless, Employee Theft, Tornadoes, Hail, Building Damage, Lightning Damage include some of the most challenging.
 
@@ -27,11 +27,11 @@ Grow Your Storage has a methodical process for managing rates, each facility’s
 
 ### When
 
-Grow Your Storage, LLC takes on the role of property manager immediately upon acquisition or sixty days prior to certificate of occupancy.  We manage the day to day operations until disposal of the assets.
+Grow Your Storage, LLC takes on the role of property manager immediately upon acquisition or sixty days prior to certificate of occupancy. &nbsp;We manage the day to day operations until disposal of the assets.
 
 ### Why Use GYS
 
-Although self-storage seems easy to run, we  have watched many new developers and owners fail because they do not have the tools or experience needed to be successful.  Structure, organization, policies, accountability must be present to be successful. Grow Your Storage, LLC understands every market and each facility is different we treat each facility individually yet provide uniformity.  Having the same policies in place at all facilities allows our “trust and verify” program simple to manage.
+Although self-storage seems easy to run, we &nbsp;have watched many new developers and owners fail because they do not have the tools or experience needed to be successful. &nbsp;Structure, organization, policies, accountability must be present to be successful. Grow Your Storage, LLC understands every market and each facility is different we treat each facility individually yet provide uniformity. &nbsp;Having the same policies in place at all facilities allows our “trust and verify” program simple to manage.
 
 ### Services offered
 
@@ -59,7 +59,7 @@ Although self-storage seems easy to run, we  have watched many new developers a
 
 **Training and Support:**
 
-We have developed our own self storage staff training program and require each new employee to complete the course.  During the program the staff member learns how to:
+We have developed our own self storage staff training program and require each new employee to complete the course. &nbsp;During the program the staff member learns how to:
 
 * Collect and post payments
 * Lease units
@@ -77,7 +77,7 @@ We have developed our own self storage staff training program and require each n
 * Ask for online reviews/referrals
 * Set up for an auction
 
-In addition to the how to videos each staff member learns what their responsibilities are and how to execute them.  Grow Your Storage, LLC provides each manager with an operations manual and each staff member knows they can call their Area Supervisor or the Operations Officer at any time for any reason.
+In addition to the how to videos each staff member learns what their responsibilities are and how to execute them. &nbsp;Grow Your Storage, LLC provides each manager with an operations manual and each staff member knows they can call their Area Supervisor or the Operations Officer at any time for any reason.
 
 Each staff member is also required to complete software training annually.
 
