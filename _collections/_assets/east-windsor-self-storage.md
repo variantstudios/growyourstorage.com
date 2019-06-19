@@ -7,8 +7,8 @@ location:
   zipcode: '80550'
 net_rentable_sq_ft: '59,425'
 units: '445'
-opening: Spring 2019
-website_url:
+opening:
+website_url: 'https://www.falconpointselfstorage.com/'
 gys_companies:
   - development
   - general-contracting
