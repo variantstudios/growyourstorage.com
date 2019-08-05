@@ -1,6 +1,6 @@
 ---
 title: GYS General Contracting
-header_image: /assets/images/college1000-200-1.jpg
+header_image: /assets/images/college 1617x675.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -35,33 +35,33 @@ David has developed this company’s operations against his previous employment 
 
 Brandon also holds his general contractors license, along with David Harvey, and has previously been responsible for managing an in house team of project managers and superintendents to execute general contracting projects. Before that, he worked as a project manager for a regional general contractor that had an internal development department, in which he was the project lead on internal development projects including a project that won CCIM project of the year in 2009. His formal education includes undergraduate degrees in both Real Estate/Business and Construction Management from Colorado State University, as well an executive MBA from CSU that he finished in 2015. He has actively held his real estate license for 9 years and is LEED accredited.
 
- 
+&nbsp;
 
 ### Services
 
-*<u><strong>Pre-construction:</strong></u>* This is a project-specific function. Depending on the project we can offer pre-construction and pricing at no cost. Each project, each owner is unique and we will work with the project team to be certain our pre-construction helps propel your project forward.
+*<u><strong>Pre-construction:</strong></u>*&nbsp;This is a project-specific function. Depending on the project we can offer pre-construction and pricing at no cost. Each project, each owner is unique and we will work with the project team to be certain our pre-construction helps propel your project forward.
 
-<u><strong>Construction Management:</strong></u> We are full-service general contracting business. All we need is the approved drawing set and we will take the project from there. 
+<u><strong>Construction Management:</strong></u> We are full-service general contracting business. All we need is the approved drawing set and we will take the project from there.&nbsp;
 
 <u><strong>Regions</strong></u>**<u>:</u>** GYS GC is continually expanding into new regions and markets. Regardless of where your project is in the United States, GYS GC can build there. We hold Class A and Class B licences in multiple regions. All we need to know is where you want to build.
 
- 
+&nbsp;
 
 ### Pertinent Projects
 
-* Self Storage at Centerra Phase 2: A 20,000 SF expansion to an existing facility in Loveland, CO. 
-* E. Woodmen Self Storage Phase 2: An 18,000 SF expansion to an existing facility. 
-* Timberline Self Storage: A new ground up facility with over 81,000 SF of building footprint across 11 buildings. 
-* Mesa Ridge Self Storage: A new  ground up 81,000 SF facility across 10 storage buildings and an office building in Fountain, CO. 
-* Blackhawk Self Storage: a 113,000 SF, 3-story self storage project in Houston, TX. 
+* Self Storage at Centerra Phase 2: A 20,000 SF expansion to an existing facility in Loveland, CO.&nbsp;
+* E. Woodmen Self Storage Phase 2: An 18,000 SF expansion to an existing facility.&nbsp;
+* Timberline Self Storage: A new ground up facility with over 81,000 SF of building footprint across 11 buildings.&nbsp;
+* Mesa Ridge Self Storage: A new &nbsp;ground up 81,000 SF facility across 10 storage buildings and an office building in Fountain, CO.&nbsp;
+* Blackhawk Self Storage: a 113,000 SF, 3-story self storage project in Houston, TX.&nbsp;
 * South College Self Storage: a 107,000 SF, 3-story self storage project in Fort Collins, CO.
-* A1 Self Storage Expansion: a 10,000 SF additional building on an existing facility in Lufkin, TX. 
-* Maizeland Self Storage: a new ground up 64,000 SF facility across 10 storage buildings and an office/apartment building in Colorado Springs, CO. 
+* A1 Self Storage Expansion: a 10,000 SF additional building on an existing facility in Lufkin, TX.&nbsp;
+* Maizeland Self Storage: a new ground up 64,000 SF facility across 10 storage buildings and an office/apartment building in Colorado Springs, CO.&nbsp;
 * Powers Self Storage: a 107,000 SF, 3-story self storage project in Colorado Springs, CO.
-* Windsor Self Storage:  67,000 SF single story project across several buildings – this is the first phase of the project located in Windsor, CO. 
+* Windsor Self Storage:&nbsp; 67,000 SF single story project across several buildings – this is the first phase of the project located in Windsor, CO.&nbsp;
 * Laramie Self Storage: a 62,000 SF single story project across several buildings – this is the first phase of the project located in Laramie, WY.
 
- 
+&nbsp;
 
 ### Contact Us
 
