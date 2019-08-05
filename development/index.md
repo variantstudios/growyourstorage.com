@@ -1,6 +1,6 @@
 ---
 title: GYS Development
-header_image: /assets/images/laramie 1200x300.jpg
+header_image: /assets/images/laramie 800x200.jpg
 search_engine_optimization:
   page_title: GYS Development
   page_description:
