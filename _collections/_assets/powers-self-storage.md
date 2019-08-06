@@ -7,7 +7,7 @@ location:
   zipcode: '80920'
 net_rentable_sq_ft: '80,603'
 units: '711'
-opening: Spring 2019
+opening:
 website_url:
 gys_companies:
   - development
