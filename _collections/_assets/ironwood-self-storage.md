@@ -3,7 +3,7 @@ title: Ironwood Self Storage
 location:
   address:
   city: San Tan Valley
-  state: AZ
+  state: Arizona
   zipcode:
 net_rentable_sq_ft: '80,000'
 units: '733'
