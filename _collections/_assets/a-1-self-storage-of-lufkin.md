@@ -5,8 +5,8 @@ location:
   city: Lufkin
   state: Texas
   zipcode: '75904'
-net_rentable_sq_ft: '105,060'
-units: '648'
+net_rentable_sq_ft: '98760'
+units: '621'
 opening:
 website_url: 'https://www.selfstorageoflufkin.com/'
 gys_companies:
