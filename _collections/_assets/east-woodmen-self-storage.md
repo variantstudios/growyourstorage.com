@@ -5,8 +5,8 @@ location:
   city: Colorado Springs
   state: Colorado
   zipcode: '80908'
-net_rentable_sq_ft: '53,800'
-units: '416'
+net_rentable_sq_ft: '85108'
+units: '747'
 opening:
 website_url: 'https://www.eastwoodmenstorage.com/'
 gys_companies:
