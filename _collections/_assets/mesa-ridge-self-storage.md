@@ -5,8 +5,8 @@ location:
   city: Colorado Springs
   state: Colorado
   zipcode: '80911'
-net_rentable_sq_ft: '56,500'
-units: '460'
+net_rentable_sq_ft: '82175'
+units: '672'
 opening:
 website_url: 'https://www.mesaridgeselfstorage.com/'
 gys_companies:
