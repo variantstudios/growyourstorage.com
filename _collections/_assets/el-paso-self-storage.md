@@ -10,4 +10,5 @@ units: '733'
 opening: Fall 2020
 website_url:
 gys_companies:
+  - development
 ---
