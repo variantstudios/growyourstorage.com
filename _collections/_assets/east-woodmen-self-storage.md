@@ -1,7 +1,7 @@
 ---
 title: East Woodmen Self Storage
 location:
-  address: 7115 Forest Meadows Avenue
+  address: 7115 Forest Meadows Ave.
   city: Colorado Springs
   state: Colorado
   zipcode: '80908'
