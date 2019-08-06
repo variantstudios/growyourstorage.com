@@ -5,9 +5,9 @@ location:
   city: San Tan Valley
   state: Arizona
   zipcode:
-net_rentable_sq_ft: '80,000'
+net_rentable_sq_ft: '79,442'
 units: '733'
-opening: Spring 2020
+opening: Summer 2020
 website_url:
 gys_companies:
   - development
