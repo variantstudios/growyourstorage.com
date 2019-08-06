@@ -3,7 +3,7 @@ title: Longmont Self Storage
 location:
   address:
   city: Longmont
-  state: CO
+  state: Colorado
   zipcode:
 net_rentable_sq_ft: '69,000'
 units: 240 & 55 Boat/RV
