@@ -7,7 +7,7 @@ location:
   zipcode:
 net_rentable_sq_ft: '63,000'
 units: '522'
-opening: Spring 2020
+opening: Summer 2020
 website_url:
 gys_companies:
   - development
