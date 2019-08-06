@@ -11,4 +11,5 @@ opening: Spring 2020
 website_url:
 gys_companies:
   - development
+  - general-contracting
 ---
