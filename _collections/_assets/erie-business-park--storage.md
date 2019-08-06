@@ -5,8 +5,8 @@ location:
   city: Erie
   state: Colorado
   zipcode: '80516'
-net_rentable_sq_ft: '68,225'
-units: '628'
+net_rentable_sq_ft: '65,750'
+units: '644'
 opening: Summer 2020
 website_url:
 gys_companies:
