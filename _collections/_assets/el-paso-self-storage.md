@@ -5,9 +5,9 @@ location:
   city: El Paso
   state: Texas
   zipcode: '79936'
-net_rentable_sq_ft:
-units:
-opening:
+net_rentable_sq_ft: '81,750'
+units: '733'
+opening: Fall 2020
 website_url:
 gys_companies:
 ---
