@@ -7,7 +7,7 @@ location:
   zipcode: '77494'
 net_rentable_sq_ft: '84,475'
 units: '791'
-opening: Summer 2019
+opening: Fall 2019
 website_url:
 gys_companies:
   - development
