@@ -15,7 +15,7 @@ _gys_company: general-contracting
 
 791 Copper Center Pkwy<br>Colorado Springs, CO 80921<br>719-270-1309
 
-estimating @growyourstorage.com
+estimating@growyourstorage.com
 
 ### Team
 
