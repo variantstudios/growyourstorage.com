@@ -1,5 +1,5 @@
 ---
-title: 50th Ave Self Storage
+title: 50th Ave. Self Storage
 location:
   address: 50th Ave & Bridge St.
   city: Brighton
