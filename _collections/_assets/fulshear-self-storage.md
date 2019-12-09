@@ -7,10 +7,11 @@ location:
   zipcode: '77494'
 net_rentable_sq_ft: '84,475'
 units: '791'
-opening: Fall 2019
-website_url:
+opening:
+website_url: 'https://fulshearbendselfstorage.com/'
 gys_companies:
   - development
   - general-contracting
+  - property-management
 ---
 
