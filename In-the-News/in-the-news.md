@@ -11,7 +11,7 @@ _gys_company: development
 
 ## GYS - In the News
 
-* Erie Business Park & Storage - Erie, CO&nbsp; &nbsp; &nbsp; https://www.dailycamera.com/2019/12/05/storage-facility-to-break-ground-in-erie-this-month/
+* Erie Business Park & Storage - Erie, CO&nbsp; &nbsp; &nbsp; [https://www.dailycamera.com/2019/12/05/storage-facility-to-break-ground-in-erie-this-month/](https://www.dailycamera.com/2019/12/05/storage-facility-to-break-ground-in-erie-this-month/){: target="_blank"}
 
 * Camelback Self Storage - Glendale, AZ&nbsp; [https://roselawgroupreporter.com/2019/02/camelback-self-storage-to-bring-approx-800-units-to-gdle/](https://roselawgroupreporter.com/2019/02/camelback-self-storage-to-bring-approx-800-units-to-gdle/){: target="_blank"}
 
