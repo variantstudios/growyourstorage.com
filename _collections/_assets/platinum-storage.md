@@ -5,7 +5,7 @@ location:
   city: Colorado Springs
   state: CO
   zipcode: '80906'
-net_rentable_sq_ft: '125500'
+net_rentable_sq_ft: '125,500'
 units:
 opening:
 website_url:
