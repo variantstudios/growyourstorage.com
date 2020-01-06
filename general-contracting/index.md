@@ -49,17 +49,17 @@ Brandon also holds his general contractors license, along with David Harvey, and
 
 ### Pertinent Projects
 
-* Self Storage at Centerra Phase 2: A 20,000 SF expansion to an existing facility in Loveland, CO.&nbsp;
-* E. Woodmen Self Storage Phase 2: An 18,000 SF expansion to an existing facility.&nbsp;
-* Timberline Self Storage: A new ground up facility with over 81,000 SF of building footprint across 11 buildings.&nbsp;
-* Mesa Ridge Self Storage: A new &nbsp;ground up 81,000 SF facility across 10 storage buildings and an office building in Fountain, CO.&nbsp;
-* Blackhawk Self Storage: a 113,000 SF, 3-story self storage project in Houston, TX.&nbsp;
-* South College Self Storage: a 107,000 SF, 3-story self storage project in Fort Collins, CO.
-* A1 Self Storage Expansion: a 10,000 SF additional building on an existing facility in Lufkin, TX.&nbsp;
-* Maizeland Self Storage: a new ground up 64,000 SF facility across 10 storage buildings and an office/apartment building in Colorado Springs, CO.&nbsp;
-* Powers Self Storage: a 107,000 SF, 3-story self storage project in Colorado Springs, CO.
-* Windsor Self Storage:&nbsp; a 67,000 SF single story project across several buildings – this is the first phase of the project located in Windsor, CO.&nbsp;
-* Laramie Self Storage: a 62,000 SF single story project across several buildings – this is the first phase of the project located in Laramie, WY.
+* Self Storage at Centerra Phase 2: 20,000 SF expansion to an existing facility in Loveland, CO.&nbsp;
+* E. Woodmen Self Storage Phase 2: 18,000 SF expansion to an existing facility.&nbsp;
+* Timberline Self Storage: New ground up facility with over 81,000 SF of building footprint across 11 buildings.&nbsp;
+* Mesa Ridge Self Storage: New &nbsp;ground up 81,000 SF facility across 10 storage buildings and an office building in Fountain, CO.&nbsp;
+* Blackhawk Self Storage: 113,000 SF, 3-story self storage project in Houston, TX.&nbsp;
+* South College Self Storage: 107,000 SF, 3-story self storage project in Fort Collins, CO.
+* A1 Self Storage Expansion: 10,000 SF additional building on an existing facility in Lufkin, TX.&nbsp;
+* Maizeland Self Storage: New ground up 64,000 SF facility across 10 storage buildings and an office/apartment building in Colorado Springs, CO.&nbsp;
+* Powers Self Storage: 107,000 SF, 3-story self storage project in Colorado Springs, CO.
+* Windsor Self Storage: 67,000 SF single story project across several buildings – this is the first phase of the project located in Windsor, CO.&nbsp;
+* Laramie Self Storage: 62,000 SF single story project across several buildings – this is the first phase of the project located in Laramie, WY.
 
 &nbsp;
 
