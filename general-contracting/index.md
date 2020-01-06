@@ -58,7 +58,7 @@ Brandon also holds his general contractors license, along with David Harvey, and
 * A1 Self Storage Expansion: a 10,000 SF additional building on an existing facility in Lufkin, TX.&nbsp;
 * Maizeland Self Storage: a new ground up 64,000 SF facility across 10 storage buildings and an office/apartment building in Colorado Springs, CO.&nbsp;
 * Powers Self Storage: a 107,000 SF, 3-story self storage project in Colorado Springs, CO.
-* Windsor Self Storage:&nbsp; 67,000 SF single story project across several buildings – this is the first phase of the project located in Windsor, CO.&nbsp;
+* Windsor Self Storage:&nbsp; a 67,000 SF single story project across several buildings – this is the first phase of the project located in Windsor, CO.&nbsp;
 * Laramie Self Storage: a 62,000 SF single story project across several buildings – this is the first phase of the project located in Laramie, WY.
 
 &nbsp;
