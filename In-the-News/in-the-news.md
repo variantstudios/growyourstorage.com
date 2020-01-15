@@ -1,6 +1,6 @@
 ---
 title: GYS - In the News
-header_image: /assets/images/fulshear-1.jpg
+header_image: /assets/images/1675x700.JPG
 search_engine_optimization:
   page_title: In the News
   page_description:
