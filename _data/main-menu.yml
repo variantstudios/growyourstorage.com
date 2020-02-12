@@ -7,15 +7,6 @@
       url: /development/assets/
     - text: Contact
       url: /development/contact/
-- text: Property Management
-  url: /property-management/
-  subitems:
-    - text: Overview
-      url: /property-management/
-    - text: Properties
-      url: /property-management/assets/
-    - text: Contact
-      url: /property-management/contact/
 - text: General Contracting
   url: /general-contracting/
   subitems:
