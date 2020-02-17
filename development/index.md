@@ -1,6 +1,6 @@
 ---
 title: GYS Development
-header_image: /assets/images/1617 300.jpg
+header_image: /assets/images/1400 300.jpg
 search_engine_optimization:
   page_title: GYS Development
   page_description:
