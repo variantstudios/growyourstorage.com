@@ -65,7 +65,7 @@ Brandon also holds his general contractors license, along with David Harvey, and
 
 ### Contact Us
 
-<div><strong>Phone</strong>: 719-270-1309</div>
+<div><strong>Phone</strong>: 719-204-5157</div>
 
 <div><strong>Email</strong>: <a data-cms-editor-link-style="undefined" href="mailto:estimating@growyourstorage.com">estimating@gysgeneralcontracting.com</a></div>
 
