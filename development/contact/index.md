@@ -45,8 +45,6 @@ Mike has a passion for connecting on a personal level with self-storage owners r
 
 Mike graduated from Colorado State University with a bachelor’s degree in accounting and finance.&nbsp; Mike and his wife Ashley have three young children and spends his free time trying to keep pace with the kids and finding opportunities to spend a day on the river fly-fishing, big game hunting or skiing.
 
-### &nbsp;
-
 ### Tony Ollila
 
 Email: tony@gysdev.com
