@@ -13,7 +13,7 @@ _gys_company: development
 
 ### Lee Fredrick
 
-Email: Lee@gysdev.com
+Email: lee@gysdev.com
 
 Cell: 936-671-1422
 
@@ -23,7 +23,7 @@ Lee Fredrick graduated from the University of Dallas in 1986. He received Master
 
 ### Brandon Grebe
 
-Email: Brandon@gysdev.com
+Email: brandon@gysdev.com
 
 Cell: 970-556-9111
 
@@ -31,7 +31,7 @@ Brandon Grebe is an entrepreneur. &nbsp;He is a co-founder and partner of GYS De
 
 ### Mike Perry
 
-Email: Mike@gysdev.com
+Email: mike@gysdev.com
 
 Cell: 720-232-1383
 
