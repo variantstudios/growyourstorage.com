@@ -8,13 +8,13 @@
     - text: Contact
       url: /development/contact/
 - text: General Contracting
-  url: /general-contracting/
+  url: https://gysgeneralcontracting.com/
   subitems:
     - text: Overview
-      url: /general-contracting/
+      url: https://gysgeneralcontracting.com/
     - text: Projects
-      url: /general-contracting/assets/
+      url: https://gysgeneralcontracting.com/projects/
     - text: Contact
-      url: /general-contracting/contact/
+      url: https://gysgeneralcontracting.com/contact-us/
 - text: In the News
-  url: 'https://www.growyourstorage.com/In-the-News/in-the-news/'
+  url: https://www.growyourstorage.com/In-the-News/in-the-news/
