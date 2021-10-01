@@ -1,1 +1,5 @@
+---
+sitemap: false
+---
+
 User-agent: * Disallow: /
