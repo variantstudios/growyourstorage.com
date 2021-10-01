@@ -1,9 +1,0 @@
-{
-  "routes": [
-    {
-      "from": "(.*)",
-      "status": 301,
-      "to": "https://gysgeneralcontracting.com/$1"
-    }
-  ]
-}

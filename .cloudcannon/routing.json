@@ -1,19 +1,9 @@
 {
   "routes": [
     {
-      "from": "/general-contracting/",
-      "to": "https://gysgeneralcontracting.com/",
-      "status": 301
-    },
-    {
-      "from": "/general-contracting/assets/",
+      "from": "(.*)",
       "status": 301,
-      "to": "https://gysgeneralcontracting.com/projects/"
-    },
-    {
-      "from": "/general-contracting/contact/",
-      "status": 301,
-      "to": "https://gysgeneralcontracting.com/contact-us/"
+      "to": "https://gysgeneralcontracting.com/$1"
     }
   ]
 }
