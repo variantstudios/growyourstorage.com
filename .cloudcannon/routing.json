@@ -7,7 +7,7 @@
       "to": "https://gysgeneralcontracting.com/$1"
     },
      {
-      "from": "/)",
+      "from": "/",
       "status": 301,
       "to": "https://gysgeneralcontracting.com/$1"
     },
