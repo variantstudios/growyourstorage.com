@@ -3,7 +3,7 @@
     {
       "from": "/(.*)",
       "status": 301,
-      "to": "https://gysgeneralcontracting.com/$1"
+      "to": "https://www.gysdevelopment.com/$1"
     }
   ]
 }
