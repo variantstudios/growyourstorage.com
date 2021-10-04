@@ -2,7 +2,7 @@
   "routes": [
     {
       "from": "/(.*)",
-      "status": 302,
+      "status": 301,
       "to": "https://www.gysdevelopment.com/$1"
     }
   ]
